@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nFair Share Scheduling\r\n</h1>\r\nExample: User 1 on a machine has 9 processes open. User 2 has 1. IF we context switch based on processes alone, User 1 gets 90% of the CPU and User 2 gets 10%.\n",
+    "lessonIndex": 1059,
+    "sectionIndex": 1,
+    "title": "Fair Share Scheduling"
+}

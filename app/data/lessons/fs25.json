@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nswap file\r\n</h1>\r\nA hidden file on a hard drive that is used to hold parts of programs and data files that do not fit in memory. The OS moves data from the swap file to memory as needed and moves data out of memory to the swap file to make room for new data.\n",
-    "lessonIndex": "fs25",
-    "sectionIndex": 2,
-    "title": "swap file"
-}

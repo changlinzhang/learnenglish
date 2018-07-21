@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nGuaranteed Scheduling\r\n</h1>\r\nIf we have N processes, a fairness algorithm states that each process will be guaranteed (1/N) timed control of the CPU.\n",
-    "lessonIndex": "p&t18",
-    "sectionIndex": 1,
-    "title": "Guaranteed Scheduling"
-}

@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nPriority Classes\r\n</h1>\r\nWe subdivide each process into a class with a given priority. We then run Round Robin on the lowest available class. (this is not good on its own)\n",
+    "lessonIndex": 1047,
+    "sectionIndex": 1,
+    "title": "Priority Classes"
+}

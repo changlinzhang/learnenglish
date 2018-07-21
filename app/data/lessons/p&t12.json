@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nSemaphore\r\n</h1>\r\nAn intger that has two functions associated with it: UP( ) and DOWN( ) that happen atomically. Down is wait and up is signal.\n",
-    "lessonIndex": "p&t12",
-    "sectionIndex": 1,
-    "title": "Semaphore"
-}

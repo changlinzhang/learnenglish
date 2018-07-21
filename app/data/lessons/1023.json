@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nRace condition\r\n</h1>\r\nA situation where multiple processes or threads must run in a specific order to achieve the desired output.\n",
+    "lessonIndex": 1023,
+    "sectionIndex": 1,
+    "title": "Race condition"
+}

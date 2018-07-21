@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nSpin lock\r\n</h1>\r\nA lock that uses busy waiting.\n",
+    "lessonIndex": 1093,
+    "sectionIndex": 1,
+    "title": "Spin lock"
+}

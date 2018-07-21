@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nCurrent instruction Register (CIR)\r\n</h1>\r\nholds the current instruction to be executed, which has been copied from MDR.\n",
+    "lessonIndex": 1011,
+    "sectionIndex": 0,
+    "title": "Current instruction Register (CIR)"
+}

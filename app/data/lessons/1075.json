@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nDifference between a process and a thread\r\n</h1>\r\nProcess is greedy, threads in cojnunction with each other for the overall good of their parent process.\n",
+    "lessonIndex": 1075,
+    "sectionIndex": 1,
+    "title": "Difference between a process and a thread"
+}

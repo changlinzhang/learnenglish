@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nProgram counter (PC)\r\n</h1>\r\nholds the memory address of the next instruction to be processed.\n",
-    "lessonIndex": "cpu10",
-    "sectionIndex": 0,
-    "title": "Program counter (PC)"
-}

@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nmaster file table (MFT)\r\n</h1>\r\nA special file that contains the attributes of each file created using NTFS; the MFT is used to locate a file on a hard drive.\n",
+    "lessonIndex": 1111,
+    "sectionIndex": 2,
+    "title": "master file table (MFT)"
+}

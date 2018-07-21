@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nThreads in User Space\r\n</h1>\r\nKernel has no idea these exist and each process still runs based upon the Kernel's schedule. If a thread within a process blocks, then the whole process will block.Wrappers can be used to ask the Kernel is a particular request will block.\n",
+    "lessonIndex": 1050,
+    "sectionIndex": 1,
+    "title": "Threads in User Space"
+}

@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nsuperblock\r\n</h1>\r\nPart of a UFS file system that contains an identifying number and other numbers that describe the file system's geometry, statistics, and behavioral parameters.\n",
-    "lessonIndex": "fs24",
-    "sectionIndex": 2,
-    "title": "superblock"
-}

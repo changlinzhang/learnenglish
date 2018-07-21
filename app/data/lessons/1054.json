@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nProducer\r\n</h1>\r\nThe job of the producer is to prepare the \"work\" in whatever encapsulation that you need, and make sure that it enters the feeding buffer in such a way to not inhibit the consumer.\n",
+    "lessonIndex": 1054,
+    "sectionIndex": 1,
+    "title": "Producer"
+}

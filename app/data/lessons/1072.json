@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nPhysical Program Counter\r\n</h1>\r\n1. Address of instruction that is currently being executed. 2. Address of next instruction that needs to be executed.\n",
+    "lessonIndex": 1072,
+    "sectionIndex": 1,
+    "title": "Physical Program Counter"
+}

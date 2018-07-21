@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nPreemptable Scheduler\r\n</h1>\r\nControl of CPU by a process can be taken away, with no, or minimal side effects. Loss of data is not an acceptable side effect.\n",
-    "lessonIndex": "p&t28",
-    "sectionIndex": 1,
-    "title": "Preemptable Scheduler"
-}

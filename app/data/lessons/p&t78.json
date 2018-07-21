@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nDifference between fork( ) and createProcess( )\r\n</h1>\r\nfork( ) copies the address space, createProcess( ) does not.\n",
-    "lessonIndex": "p&t78",
-    "sectionIndex": 1,
-    "title": "Difference between fork( ) and createProcess( )"
-}

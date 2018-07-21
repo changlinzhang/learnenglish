@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nFlow of control from user to hardware\r\n</h1>\r\n1. user 2. input (keyboard/mouse) 3. Application layer 4. Kernel 5. Hardware 6. Kernel 7. Application Layer 8. Output (monitor) 9. User --- (n-1 design)\n",
-    "lessonIndex": "p&t53",
-    "sectionIndex": 1,
-    "title": "Flow of control from user to hardware"
-}

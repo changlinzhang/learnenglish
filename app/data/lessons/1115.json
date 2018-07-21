@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nquota\r\n</h1>\r\nA restriction on users' ability to exceed limits placed on file system resources. It allows administrators to effectively manage disk space shared by multiple users.\n",
+    "lessonIndex": 1115,
+    "sectionIndex": 2,
+    "title": "quota"
+}

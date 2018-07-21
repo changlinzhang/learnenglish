@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nRound Robin\r\n</h1>\r\nAn interactive scheduler. Develop a quantum q, where q is some span of time (Statistics say 5-10 seconds). Jobs are placed in a FIFO system and each job will run for q or until completion, whichever happens first. If more time is needed, the process goes to the back of the line. Implemented using a clock.\n",
-    "lessonIndex": "p&t32",
-    "sectionIndex": 1,
-    "title": "Round Robin"
-}

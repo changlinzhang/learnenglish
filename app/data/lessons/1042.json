@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nFIFO Batch System Scheduler\r\n</h1>\r\nA first in, first out scheduler. As jobs come in they are processed to completion. Has a major issue with throughput. Implemented with a queue.\n",
+    "lessonIndex": 1042,
+    "sectionIndex": 1,
+    "title": "FIFO Batch System Scheduler"
+}

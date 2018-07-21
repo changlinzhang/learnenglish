@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nMutex\r\n</h1>\r\nA semaphore that has 2 possible values: 0 or 1\n",
+    "lessonIndex": 1024,
+    "sectionIndex": 1,
+    "title": "Mutex"
+}

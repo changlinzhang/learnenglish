@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nCritical Region\r\n</h1>\r\nAny shared resource by multiple processes or threads.\n",
+    "lessonIndex": 1052,
+    "sectionIndex": 1,
+    "title": "Critical Region"
+}

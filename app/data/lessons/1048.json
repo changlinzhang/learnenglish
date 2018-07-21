@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nMultiple Queues\r\n</h1>\r\nHave priority classes. Most implementations have each process start at the lowest class, except when processes expire this quantum, they then get bumped down to a lower class. Each class increases its quantum by 2.\n",
+    "lessonIndex": 1048,
+    "sectionIndex": 1,
+    "title": "Multiple Queues"
+}

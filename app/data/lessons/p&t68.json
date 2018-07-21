@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\nInterrupt\r\n</h1>\r\nWhen the controller detects the end of the transfer, it generates an interrupt to signal completion.\n",
-    "lessonIndex": "p&t68",
-    "sectionIndex": 1,
-    "title": "Interrupt"
-}

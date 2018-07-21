@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nfile allocation table (FAT)\r\n</h1>\r\nA table that an operating system maintains to provide the cluster locations of a file.\n",
+    "lessonIndex": 1107,
+    "sectionIndex": 2,
+    "title": "file allocation table (FAT)"
+}

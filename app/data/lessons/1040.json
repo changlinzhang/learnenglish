@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nNon-preemptable Scheduler\r\n</h1>\r\nControl of the CPU by a process can not be taken away.\n",
+    "lessonIndex": 1040,
+    "sectionIndex": 1,
+    "title": "Non-preemptable Scheduler"
+}

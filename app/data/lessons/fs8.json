@@ -1,7 +1,0 @@
-{
-    "categoryIndex": 1,
-    "html": "\r\n<h1>\r\ndynamic disk\r\n</h1>\r\nA disk that contains dynamic volumes, such as simple volumes. Dynamic disk storage is divided into volumes instead of partitions.\n",
-    "lessonIndex": "fs8",
-    "sectionIndex": 2,
-    "title": "dynamic disk"
-}

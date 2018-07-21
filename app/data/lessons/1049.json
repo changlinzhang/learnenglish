@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nShortest Process Next\r\n</h1>\r\nCreate an estimation of a process runtime based upon an aging formula. Keep track of X number of previous runs and each run after the last, loses its effect overall based upon your aging. Then chose which process to use next based upon a minimal estimated runtime.\n",
+    "lessonIndex": 1049,
+    "sectionIndex": 1,
+    "title": "Shortest Process Next"
+}

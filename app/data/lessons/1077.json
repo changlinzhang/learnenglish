@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nfork( )\r\n</h1>\r\nCreates a new address space that is an exact copy (shallow copy) of the old process. Process hierarchy/process tree. Linux\n",
+    "lessonIndex": 1077,
+    "sectionIndex": 1,
+    "title": "fork( )"
+}
