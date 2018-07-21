@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nThreads in Kernel Space\r\n</h1>\r\nThe Kernel manages and schedules the running of all threads. If a thread blocks, the Kernel can switch to any other thread it is aware of, no matter the process. Thread pools are used to mitigate overhead with creation and deletion. In thread pools, threads are not deleted, but their process pool is to be occupied by another thread.\n",
+    "lessonIndex": "p&t38",
+    "sectionIndex": 1,
+    "title": "Threads in Kernel Space"
+}

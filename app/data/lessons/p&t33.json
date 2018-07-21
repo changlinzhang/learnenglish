@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nPriority Scheduling\r\n</h1>\r\nA Round Robin that is used with a priority. Stored elements in a heap run for a quantum, then the priority is adjusted.\n",
+    "lessonIndex": "p&t33",
+    "sectionIndex": 1,
+    "title": "Priority Scheduling"
+}

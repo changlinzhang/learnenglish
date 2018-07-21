@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nContext switch\r\n</h1>\r\nIs when the processor gives control of the CPU to another process. This is necessary to multi-task and save time.\n",
+    "lessonIndex": "p&t5",
+    "sectionIndex": 1,
+    "title": "Context switch"
+}

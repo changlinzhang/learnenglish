@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nFAT32\r\n</h1>\r\nA file system first used by Windows 95 OSR 2 that uses 32-bit sector addresses (of which 28 bits are currently used).\n",
+    "lessonIndex": "fs11",
+    "sectionIndex": 2,
+    "title": "FAT32"
+}

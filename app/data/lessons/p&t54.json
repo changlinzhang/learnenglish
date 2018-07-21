@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nKernel\r\n</h1>\r\nTasked with communicating with the hardware. Is responsible for task scheduling, loading/unloading applications from memory, file management, and data security. Not a process, but is a computer program.\n",
+    "lessonIndex": "p&t54",
+    "sectionIndex": 1,
+    "title": "Kernel"
+}

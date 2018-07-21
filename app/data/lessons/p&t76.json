@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nUser space\r\n</h1>\r\nA set of locations where normal user processes run (i.e everything other than the kernel). The role of the kernel is to manage applications running in this space from messing with each other, and the machine.\n",
+    "lessonIndex": "p&t76",
+    "sectionIndex": 1,
+    "title": "User space"
+}

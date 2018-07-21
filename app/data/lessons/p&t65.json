@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\ncreateProcess(0, 1, . . . 9 )\r\n</h1>\r\nCreates a new address space that is empty and whose characteristics are created based upon the function's parameters. No process hierarchy. Windows\n",
+    "lessonIndex": "p&t65",
+    "sectionIndex": 1,
+    "title": "createProcess(0, 1, . . . 9 )"
+}
