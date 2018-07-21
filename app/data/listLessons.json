@@ -7,8 +7,8 @@
             "description": "This section is created for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.There are currently 90 lessons with over 900 audio files in the English Speaking Basics Section.  Once you are familiar with the basics of English speaking, you can move to other categories such as Regular English Lessons",
             "sections": [
                 {
-                    "title": "Array",
-                    "description": "English Speaking Basics is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This first section contains the first 30 lessons.  Go through them 1 by 1 until you are familiar with each sentence.",
+                    "title": "Data Structures",
+                    "description": "A data structure is a data organization and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.",
                     "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_I.aspx",
                     "lessons": [
                         {
@@ -550,1871 +550,321 @@
                     ]
                 },
                 {
-                    "title": "Linked List",
-                    "description": "English Speaking Basics II is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This second section contains the next 30 lessons.  If any lessons are too easy, please move forward to other lessons.",
+                    "title": "Algorithms",
+                    "description": "An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing and automated reasoning tasks.",
                     "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_II.aspx",
                     "lessons": [
                         {
-                            "lessonIndex": 29,
-                            "title": "I'm calling to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2031"
+                            "lessonIndex": 134,
+                            "title": "Height of node in a heap"
                         },
                         {
-                            "lessonIndex": 30,
-                            "title": "I'm working on + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2032"
+                            "lessonIndex": 135,
+                            "title": "Height of heap"
                         },
                         {
-                            "lessonIndex": 31,
-                            "title": "I'm sorry to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2033"
+                            "lessonIndex": 136,
+                            "title": "Complete tree"
                         },
                         {
-                            "lessonIndex": 32,
-                            "title": "I'm thinking of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2034"
+                            "lessonIndex": 137,
+                            "title": "Max-heap"
                         },
                         {
-                            "lessonIndex": 33,
-                            "title": "I'll help you + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2035"
+                            "lessonIndex": 138,
+                            "title": "Value of a node is at most the value of its parent so the largest element is stored at root\n"
                         },
                         {
-                            "lessonIndex": 34,
-                            "title": "I'm dying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2036"
+                            "lessonIndex": 139,
+                            "title": "Max-heapify"
                         },
                         {
-                            "lessonIndex": 35,
-                            "title": "It's my turn to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2037"
+                            "lessonIndex": 140,
+                            "title": "Build-Max-Heap"
                         },
                         {
-                            "lessonIndex": 36,
-                            "title": "It's hard for me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2038"
+                            "lessonIndex": 141,
+                            "title": "Min-heap"
                         },
                         {
-                            "lessonIndex": 37,
-                            "title": "I'm having a hard time + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2039"
+                            "lessonIndex": 142,
+                            "title": "Smallest element is at root\n"
                         },
                         {
-                            "lessonIndex": 38,
-                            "title": "I think I should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2040"
+                            "lessonIndex": 143,
+                            "title": "Heap sort"
                         },
                         {
-                            "lessonIndex": 39,
-                            "title": "I've heard that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2041"
+                            "lessonIndex": 144,
+                            "title": "Priority queue"
                         },
                         {
-                            "lessonIndex": 40,
-                            "title": "It occurred to me that (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2042"
+                            "lessonIndex": 145,
+                            "title": "Pivot index"
                         },
                         {
-                            "lessonIndex": 41,
-                            "title": "Let me + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2043"
+                            "lessonIndex": 146,
+                            "title": "Dynamic programming"
                         },
                         {
-                            "lessonIndex": 42,
-                            "title": "Thank you for",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2044"
+                            "lessonIndex": 147,
+                            "title": "1. Characterize structure of optimal solution 2. Recursively define the value of OpSol 3. Compute value of OpSol, typically bottom-up 4. Construct OpSol from computed info\n"
                         },
                         {
-                            "lessonIndex": 43,
-                            "title": "Can I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2045"
+                            "lessonIndex": 148,
+                            "title": "Greedy strategy"
                         },
                         {
-                            "lessonIndex": 44,
-                            "title": "Can I get + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2046"
+                            "lessonIndex": 149,
+                            "title": "Huffman codes"
                         },
                         {
-                            "lessonIndex": 45,
-                            "title": "I'm not sure if (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2047"
+                            "lessonIndex": 150,
+                            "title": "Knapsack problem"
                         },
                         {
-                            "lessonIndex": 46,
-                            "title": "Do you mind if I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2048"
+                            "lessonIndex": 151,
+                            "title": "Hashing"
                         },
                         {
-                            "lessonIndex": 47,
-                            "title": "I don't know what to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2049"
+                            "lessonIndex": 152,
+                            "title": "Chaining"
                         },
                         {
-                            "lessonIndex": 48,
-                            "title": "I should have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2050"
+                            "lessonIndex": 153,
+                            "title": "Open Addressing"
                         },
                         {
-                            "lessonIndex": 49,
-                            "title": "I wish I could + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2051"
+                            "lessonIndex": 154,
+                            "title": "All Pairs Shortest Paths"
                         },
                         {
-                            "lessonIndex": 50,
-                            "title": "You should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2052"
+                            "lessonIndex": 155,
+                            "title": "Floyd-Warshall"
                         },
                         {
-                            "lessonIndex": 51,
-                            "title": "You're supposed to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2053"
+                            "lessonIndex": 156,
+                            "title": "Distance and Predecessor Matrices"
                         },
                         {
-                            "lessonIndex": 52,
-                            "title": "You seem + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2054"
+                            "lessonIndex": 157,
+                            "title": "Finding a shortest path"
                         },
                         {
-                            "lessonIndex": 53,
-                            "title": "You'd better + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2055"
+                            "lessonIndex": 158,
+                            "title": "Heaps"
                         },
                         {
-                            "lessonIndex": 54,
-                            "title": "Are you into + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2056"
+                            "lessonIndex": 159,
+                            "title": "Array Representation"
                         },
                         {
-                            "lessonIndex": 55,
-                            "title": "Are you trying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2057"
+                            "lessonIndex": 160,
+                            "title": "Creating a Heap"
                         },
                         {
-                            "lessonIndex": 56,
-                            "title": "Please + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2058"
+                            "lessonIndex": 161,
+                            "title": "Inserting (heap)"
                         },
                         {
-                            "lessonIndex": 57,
-                            "title": "Don't + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2059"
+                            "lessonIndex": 162,
+                            "title": "Deleting (heap)"
                         },
                         {
-                            "lessonIndex": 58,
-                            "title": "Do you like",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2060"
-                        }
-                    ]
-                },
-                {
-                    "title": "String",
-                    "description": "English Speaking Basics III is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This third section contains the next 30 lessons.  Please continue studying until you master each lesson.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_III.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 59,
-                            "title": "How often do you",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2061"
-                        },
-                        {
-                            "lessonIndex": 60,
-                            "title": "Do you want me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2062"
-                        },
-                        {
-                            "lessonIndex": 61,
-                            "title": "What do you think about (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2063"
-                        },
-                        {
-                            "lessonIndex": 62,
-                            "title": "Why don't we + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2064"
-                        },
-                        {
-                            "lessonIndex": 63,
-                            "title": "It's too bad that",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2065"
-                        },
-                        {
-                            "lessonIndex": 64,
-                            "title": "You could have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2066"
-                        },
-                        {
-                            "lessonIndex": 65,
-                            "title": "If I were you, I would + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2067"
-                        },
-                        {
-                            "lessonIndex": 66,
-                            "title": "It's gonna be + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2068"
-                        },
-                        {
-                            "lessonIndex": 67,
-                            "title": "It looks like + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2069"
-                        },
-                        {
-                            "lessonIndex": 68,
-                            "title": "That's why + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2070"
-                        },
-                        {
-                            "lessonIndex": 69,
-                            "title": "It's time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2071"
-                        },
-                        {
-                            "lessonIndex": 70,
-                            "title": "The point is that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2072"
-                        },
-                        {
-                            "lessonIndex": 71,
-                            "title": "How was + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2073"
-                        },
-                        {
-                            "lessonIndex": 72,
-                            "title": "How about + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2074"
-                        },
-                        {
-                            "lessonIndex": 73,
-                            "title": "What if + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2075"
-                        },
-                        {
-                            "lessonIndex": 74,
-                            "title": "How much does it cost to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2076"
-                        },
-                        {
-                            "lessonIndex": 75,
-                            "title": "How come + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2077"
-                        },
-                        {
-                            "lessonIndex": 76,
-                            "title": "What are the chances of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2078"
-                        },
-                        {
-                            "lessonIndex": 77,
-                            "title": "There is something wrong with + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2079"
-                        },
-                        {
-                            "lessonIndex": 78,
-                            "title": "Let's not + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2080"
-                        },
-                        {
-                            "lessonIndex": 79,
-                            "title": "Let's say that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2081"
-                        },
-                        {
-                            "lessonIndex": 80,
-                            "title": "There's no need to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2082"
-                        },
-                        {
-                            "lessonIndex": 81,
-                            "title": "It takes + (time) + to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2083"
-                        },
-                        {
-                            "lessonIndex": 82,
-                            "title": "Please make sure that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2084"
-                        },
-                        {
-                            "lessonIndex": 83,
-                            "title": "Here's to + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2085"
-                        },
-                        {
-                            "lessonIndex": 84,
-                            "title": "It's no use + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2086"
-                        },
-                        {
-                            "lessonIndex": 85,
-                            "title": "There's no way + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2087"
-                        },
-                        {
-                            "lessonIndex": 86,
-                            "title": "It's very kind of you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2088"
-                        },
-                        {
-                            "lessonIndex": 87,
-                            "title": "There's nothing + (subject) + can + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2089"
-                        },
-                        {
-                            "lessonIndex": 88,
-                            "title": "Rumor has it that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2090"
-                        }
-                    ]
-                },
-                {
-                    "title": "Stack",
-                    "description": "English Speaking Basics is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This first section contains the first 30 lessons.  Go through them 1 by 1 until you are familiar with each sentence.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_I.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 0,
-                            "title": "zcl",
-                            "link": ""
-                        },
-                        {
-                            "lessonIndex": 1,
-                            "title": "Variations of 'I'm in/at/on'",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2002"
-                        },
-                        {
-                            "lessonIndex": 2,
-                            "title": "I'm good at",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2003"
-                        },
-                        {
-                            "lessonIndex": 3,
-                            "title": "I'm + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2005"
-                        },
-                        {
-                            "lessonIndex": 4,
-                            "title": "I'm getting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2006"
-                        },
-                        {
-                            "lessonIndex": 5,
-                            "title": "I'm trying + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2007"
-                        },
-                        {
-                            "lessonIndex": 6,
-                            "title": "I'm gonna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2008"
-                        },
-                        {
-                            "lessonIndex": 7,
-                            "title": "I have + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2009"
-                        },
-                        {
-                            "lessonIndex": 8,
-                            "title": "I have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2010"
-                        },
-                        {
-                            "lessonIndex": 9,
-                            "title": "I used to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2011"
-                        },
-                        {
-                            "lessonIndex": 10,
-                            "title": "I have to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2012"
-                        },
-                        {
-                            "lessonIndex": 11,
-                            "title": "I wanna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2013"
-                        },
-                        {
-                            "lessonIndex": 12,
-                            "title": "I gotta + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2014"
-                        },
-                        {
-                            "lessonIndex": 13,
-                            "title": "I would like to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2015"
-                        },
-                        {
-                            "lessonIndex": 14,
-                            "title": "I plan to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2016"
-                        },
-                        {
-                            "lessonIndex": 15,
-                            "title": "I've decided to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2017"
-                        },
-                        {
-                            "lessonIndex": 16,
-                            "title": "I was about to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2018"
-                        },
-                        {
-                            "lessonIndex": 17,
-                            "title": "I didn't mean to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2019"
-                        },
-                        {
-                            "lessonIndex": 18,
-                            "title": "I don't have time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2020"
-                        },
-                        {
-                            "lessonIndex": 19,
-                            "title": "I promise not to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2021"
-                        },
-                        {
-                            "lessonIndex": 20,
-                            "title": "I'd rather + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2022"
-                        },
-                        {
-                            "lessonIndex": 21,
-                            "title": "I feel like + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2023"
-                        },
-                        {
-                            "lessonIndex": 22,
-                            "title": "I can't help + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2024"
-                        },
-                        {
-                            "lessonIndex": 23,
-                            "title": "I was busy + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2025"
-                        },
-                        {
-                            "lessonIndex": 24,
-                            "title": "I'm not used to + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2026"
-                        },
-                        {
-                            "lessonIndex": 25,
-                            "title": "I want you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2027"
-                        },
-                        {
-                            "lessonIndex": 26,
-                            "title": "I'm here to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2028"
-                        },
-                        {
-                            "lessonIndex": 27,
-                            "title": "I have something + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2029"
-                        },
-                        {
-                            "lessonIndex": 28,
-                            "title": "I'm looking forward to",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2030"
-                        }
-                    ]
-                },
-                {
-                    "title": "Queue",
-                    "description": "English Speaking Basics II is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This second section contains the next 30 lessons.  If any lessons are too easy, please move forward to other lessons.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_II.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 29,
-                            "title": "I'm calling to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2031"
-                        },
-                        {
-                            "lessonIndex": 30,
-                            "title": "I'm working on + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2032"
-                        },
-                        {
-                            "lessonIndex": 31,
-                            "title": "I'm sorry to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2033"
-                        },
-                        {
-                            "lessonIndex": 32,
-                            "title": "I'm thinking of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2034"
-                        },
-                        {
-                            "lessonIndex": 33,
-                            "title": "I'll help you + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2035"
-                        },
-                        {
-                            "lessonIndex": 34,
-                            "title": "I'm dying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2036"
-                        },
-                        {
-                            "lessonIndex": 35,
-                            "title": "It's my turn to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2037"
-                        },
-                        {
-                            "lessonIndex": 36,
-                            "title": "It's hard for me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2038"
-                        },
-                        {
-                            "lessonIndex": 37,
-                            "title": "I'm having a hard time + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2039"
-                        },
-                        {
-                            "lessonIndex": 38,
-                            "title": "I think I should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2040"
-                        },
-                        {
-                            "lessonIndex": 39,
-                            "title": "I've heard that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2041"
-                        },
-                        {
-                            "lessonIndex": 40,
-                            "title": "It occurred to me that (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2042"
-                        },
-                        {
-                            "lessonIndex": 41,
-                            "title": "Let me + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2043"
-                        },
-                        {
-                            "lessonIndex": 42,
-                            "title": "Thank you for",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2044"
-                        },
-                        {
-                            "lessonIndex": 43,
-                            "title": "Can I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2045"
-                        },
-                        {
-                            "lessonIndex": 44,
-                            "title": "Can I get + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2046"
-                        },
-                        {
-                            "lessonIndex": 45,
-                            "title": "I'm not sure if (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2047"
-                        },
-                        {
-                            "lessonIndex": 46,
-                            "title": "Do you mind if I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2048"
-                        },
-                        {
-                            "lessonIndex": 47,
-                            "title": "I don't know what to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2049"
-                        },
-                        {
-                            "lessonIndex": 48,
-                            "title": "I should have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2050"
-                        },
-                        {
-                            "lessonIndex": 49,
-                            "title": "I wish I could + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2051"
-                        },
-                        {
-                            "lessonIndex": 50,
-                            "title": "You should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2052"
-                        },
-                        {
-                            "lessonIndex": 51,
-                            "title": "You're supposed to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2053"
-                        },
-                        {
-                            "lessonIndex": 52,
-                            "title": "You seem + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2054"
-                        },
-                        {
-                            "lessonIndex": 53,
-                            "title": "You'd better + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2055"
-                        },
-                        {
-                            "lessonIndex": 54,
-                            "title": "Are you into + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2056"
-                        },
-                        {
-                            "lessonIndex": 55,
-                            "title": "Are you trying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2057"
-                        },
-                        {
-                            "lessonIndex": 56,
-                            "title": "Please + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2058"
-                        },
-                        {
-                            "lessonIndex": 57,
-                            "title": "Don't + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2059"
-                        },
-                        {
-                            "lessonIndex": 58,
-                            "title": "Do you like",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2060"
-                        }
-                    ]
-                },
-                {
-                    "title": "Binary Tree",
-                    "description": "English Speaking Basics III is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This third section contains the next 30 lessons.  Please continue studying until you master each lesson.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_III.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 59,
-                            "title": "How often do you",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2061"
-                        },
-                        {
-                            "lessonIndex": 60,
-                            "title": "Do you want me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2062"
-                        },
-                        {
-                            "lessonIndex": 61,
-                            "title": "What do you think about (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2063"
-                        },
-                        {
-                            "lessonIndex": 62,
-                            "title": "Why don't we + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2064"
-                        },
-                        {
-                            "lessonIndex": 63,
-                            "title": "It's too bad that",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2065"
-                        },
-                        {
-                            "lessonIndex": 64,
-                            "title": "You could have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2066"
-                        },
-                        {
-                            "lessonIndex": 65,
-                            "title": "If I were you, I would + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2067"
-                        },
-                        {
-                            "lessonIndex": 66,
-                            "title": "It's gonna be + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2068"
-                        },
-                        {
-                            "lessonIndex": 67,
-                            "title": "It looks like + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2069"
-                        },
-                        {
-                            "lessonIndex": 68,
-                            "title": "That's why + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2070"
-                        },
-                        {
-                            "lessonIndex": 69,
-                            "title": "It's time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2071"
-                        },
-                        {
-                            "lessonIndex": 70,
-                            "title": "The point is that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2072"
-                        },
-                        {
-                            "lessonIndex": 71,
-                            "title": "How was + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2073"
-                        },
-                        {
-                            "lessonIndex": 72,
-                            "title": "How about + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2074"
-                        },
-                        {
-                            "lessonIndex": 73,
-                            "title": "What if + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2075"
-                        },
-                        {
-                            "lessonIndex": 74,
-                            "title": "How much does it cost to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2076"
-                        },
-                        {
-                            "lessonIndex": 75,
-                            "title": "How come + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2077"
-                        },
-                        {
-                            "lessonIndex": 76,
-                            "title": "What are the chances of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2078"
-                        },
-                        {
-                            "lessonIndex": 77,
-                            "title": "There is something wrong with + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2079"
-                        },
-                        {
-                            "lessonIndex": 78,
-                            "title": "Let's not + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2080"
-                        },
-                        {
-                            "lessonIndex": 79,
-                            "title": "Let's say that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2081"
-                        },
-                        {
-                            "lessonIndex": 80,
-                            "title": "There's no need to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2082"
-                        },
-                        {
-                            "lessonIndex": 81,
-                            "title": "It takes + (time) + to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2083"
-                        },
-                        {
-                            "lessonIndex": 82,
-                            "title": "Please make sure that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2084"
-                        },
-                        {
-                            "lessonIndex": 83,
-                            "title": "Here's to + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2085"
-                        },
-                        {
-                            "lessonIndex": 84,
-                            "title": "It's no use + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2086"
-                        },
-                        {
-                            "lessonIndex": 85,
-                            "title": "There's no way + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2087"
-                        },
-                        {
-                            "lessonIndex": 86,
-                            "title": "It's very kind of you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2088"
-                        },
-                        {
-                            "lessonIndex": 87,
-                            "title": "There's nothing + (subject) + can + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2089"
-                        },
-                        {
-                            "lessonIndex": 88,
-                            "title": "Rumor has it that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2090"
-                        }
-                    ]
-                },
-                {
-                    "title": "Sort",
-                    "description": "English Speaking Basics is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This first section contains the first 30 lessons.  Go through them 1 by 1 until you are familiar with each sentence.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_I.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 0,
-                            "title": "zcl",
-                            "link": ""
-                        },
-                        {
-                            "lessonIndex": 1,
-                            "title": "Variations of 'I'm in/at/on'",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2002"
-                        },
-                        {
-                            "lessonIndex": 2,
-                            "title": "I'm good at",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2003"
-                        },
-                        {
-                            "lessonIndex": 3,
-                            "title": "I'm + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2005"
-                        },
-                        {
-                            "lessonIndex": 4,
-                            "title": "I'm getting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2006"
-                        },
-                        {
-                            "lessonIndex": 5,
-                            "title": "I'm trying + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2007"
-                        },
-                        {
-                            "lessonIndex": 6,
-                            "title": "I'm gonna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2008"
-                        },
-                        {
-                            "lessonIndex": 7,
-                            "title": "I have + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2009"
-                        },
-                        {
-                            "lessonIndex": 8,
-                            "title": "I have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2010"
-                        },
-                        {
-                            "lessonIndex": 9,
-                            "title": "I used to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2011"
-                        },
-                        {
-                            "lessonIndex": 10,
-                            "title": "I have to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2012"
-                        },
-                        {
-                            "lessonIndex": 11,
-                            "title": "I wanna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2013"
-                        },
-                        {
-                            "lessonIndex": 12,
-                            "title": "I gotta + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2014"
-                        },
-                        {
-                            "lessonIndex": 13,
-                            "title": "I would like to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2015"
-                        },
-                        {
-                            "lessonIndex": 14,
-                            "title": "I plan to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2016"
-                        },
-                        {
-                            "lessonIndex": 15,
-                            "title": "I've decided to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2017"
-                        },
-                        {
-                            "lessonIndex": 16,
-                            "title": "I was about to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2018"
-                        },
-                        {
-                            "lessonIndex": 17,
-                            "title": "I didn't mean to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2019"
-                        },
-                        {
-                            "lessonIndex": 18,
-                            "title": "I don't have time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2020"
-                        },
-                        {
-                            "lessonIndex": 19,
-                            "title": "I promise not to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2021"
-                        },
-                        {
-                            "lessonIndex": 20,
-                            "title": "I'd rather + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2022"
-                        },
-                        {
-                            "lessonIndex": 21,
-                            "title": "I feel like + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2023"
-                        },
-                        {
-                            "lessonIndex": 22,
-                            "title": "I can't help + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2024"
-                        },
-                        {
-                            "lessonIndex": 23,
-                            "title": "I was busy + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2025"
-                        },
-                        {
-                            "lessonIndex": 24,
-                            "title": "I'm not used to + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2026"
-                        },
-                        {
-                            "lessonIndex": 25,
-                            "title": "I want you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2027"
-                        },
-                        {
-                            "lessonIndex": 26,
-                            "title": "I'm here to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2028"
-                        },
-                        {
-                            "lessonIndex": 27,
-                            "title": "I have something + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2029"
-                        },
-                        {
-                            "lessonIndex": 28,
-                            "title": "I'm looking forward to",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2030"
-                        }
-                    ]
-                },
-                {
-                    "title": "Search",
-                    "description": "English Speaking Basics II is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This second section contains the next 30 lessons.  If any lessons are too easy, please move forward to other lessons.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_II.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 29,
-                            "title": "I'm calling to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2031"
-                        },
-                        {
-                            "lessonIndex": 30,
-                            "title": "I'm working on + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2032"
-                        },
-                        {
-                            "lessonIndex": 31,
-                            "title": "I'm sorry to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2033"
-                        },
-                        {
-                            "lessonIndex": 32,
-                            "title": "I'm thinking of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2034"
-                        },
-                        {
-                            "lessonIndex": 33,
-                            "title": "I'll help you + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2035"
-                        },
-                        {
-                            "lessonIndex": 34,
-                            "title": "I'm dying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2036"
-                        },
-                        {
-                            "lessonIndex": 35,
-                            "title": "It's my turn to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2037"
-                        },
-                        {
-                            "lessonIndex": 36,
-                            "title": "It's hard for me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2038"
-                        },
-                        {
-                            "lessonIndex": 37,
-                            "title": "I'm having a hard time + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2039"
-                        },
-                        {
-                            "lessonIndex": 38,
-                            "title": "I think I should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2040"
-                        },
-                        {
-                            "lessonIndex": 39,
-                            "title": "I've heard that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2041"
-                        },
-                        {
-                            "lessonIndex": 40,
-                            "title": "It occurred to me that (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2042"
-                        },
-                        {
-                            "lessonIndex": 41,
-                            "title": "Let me + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2043"
-                        },
-                        {
-                            "lessonIndex": 42,
-                            "title": "Thank you for",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2044"
-                        },
-                        {
-                            "lessonIndex": 43,
-                            "title": "Can I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2045"
-                        },
-                        {
-                            "lessonIndex": 44,
-                            "title": "Can I get + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2046"
-                        },
-                        {
-                            "lessonIndex": 45,
-                            "title": "I'm not sure if (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2047"
-                        },
-                        {
-                            "lessonIndex": 46,
-                            "title": "Do you mind if I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2048"
-                        },
-                        {
-                            "lessonIndex": 47,
-                            "title": "I don't know what to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2049"
-                        },
-                        {
-                            "lessonIndex": 48,
-                            "title": "I should have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2050"
-                        },
-                        {
-                            "lessonIndex": 49,
-                            "title": "I wish I could + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2051"
-                        },
-                        {
-                            "lessonIndex": 50,
-                            "title": "You should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2052"
-                        },
-                        {
-                            "lessonIndex": 51,
-                            "title": "You're supposed to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2053"
-                        },
-                        {
-                            "lessonIndex": 52,
-                            "title": "You seem + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2054"
-                        },
-                        {
-                            "lessonIndex": 53,
-                            "title": "You'd better + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2055"
-                        },
-                        {
-                            "lessonIndex": 54,
-                            "title": "Are you into + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2056"
-                        },
-                        {
-                            "lessonIndex": 55,
-                            "title": "Are you trying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2057"
-                        },
-                        {
-                            "lessonIndex": 56,
-                            "title": "Please + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2058"
-                        },
-                        {
-                            "lessonIndex": 57,
-                            "title": "Don't + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2059"
-                        },
-                        {
-                            "lessonIndex": 58,
-                            "title": "Do you like",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2060"
-                        }
-                    ]
-                },
-                {
-                    "title": "BFS",
-                    "description": "English Speaking Basics III is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This third section contains the next 30 lessons.  Please continue studying until you master each lesson.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_III.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 59,
-                            "title": "How often do you",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2061"
-                        },
-                        {
-                            "lessonIndex": 60,
-                            "title": "Do you want me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2062"
-                        },
-                        {
-                            "lessonIndex": 61,
-                            "title": "What do you think about (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2063"
-                        },
-                        {
-                            "lessonIndex": 62,
-                            "title": "Why don't we + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2064"
-                        },
-                        {
-                            "lessonIndex": 63,
-                            "title": "It's too bad that",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2065"
-                        },
-                        {
-                            "lessonIndex": 64,
-                            "title": "You could have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2066"
-                        },
-                        {
-                            "lessonIndex": 65,
-                            "title": "If I were you, I would + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2067"
-                        },
-                        {
-                            "lessonIndex": 66,
-                            "title": "It's gonna be + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2068"
-                        },
-                        {
-                            "lessonIndex": 67,
-                            "title": "It looks like + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2069"
-                        },
-                        {
-                            "lessonIndex": 68,
-                            "title": "That's why + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2070"
-                        },
-                        {
-                            "lessonIndex": 69,
-                            "title": "It's time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2071"
-                        },
-                        {
-                            "lessonIndex": 70,
-                            "title": "The point is that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2072"
-                        },
-                        {
-                            "lessonIndex": 71,
-                            "title": "How was + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2073"
-                        },
-                        {
-                            "lessonIndex": 72,
-                            "title": "How about + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2074"
-                        },
-                        {
-                            "lessonIndex": 73,
-                            "title": "What if + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2075"
-                        },
-                        {
-                            "lessonIndex": 74,
-                            "title": "How much does it cost to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2076"
-                        },
-                        {
-                            "lessonIndex": 75,
-                            "title": "How come + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2077"
-                        },
-                        {
-                            "lessonIndex": 76,
-                            "title": "What are the chances of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2078"
-                        },
-                        {
-                            "lessonIndex": 77,
-                            "title": "There is something wrong with + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2079"
-                        },
-                        {
-                            "lessonIndex": 78,
-                            "title": "Let's not + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2080"
-                        },
-                        {
-                            "lessonIndex": 79,
-                            "title": "Let's say that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2081"
-                        },
-                        {
-                            "lessonIndex": 80,
-                            "title": "There's no need to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2082"
-                        },
-                        {
-                            "lessonIndex": 81,
-                            "title": "It takes + (time) + to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2083"
-                        },
-                        {
-                            "lessonIndex": 82,
-                            "title": "Please make sure that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2084"
-                        },
-                        {
-                            "lessonIndex": 83,
-                            "title": "Here's to + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2085"
-                        },
-                        {
-                            "lessonIndex": 84,
-                            "title": "It's no use + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2086"
-                        },
-                        {
-                            "lessonIndex": 85,
-                            "title": "There's no way + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2087"
-                        },
-                        {
-                            "lessonIndex": 86,
-                            "title": "It's very kind of you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2088"
-                        },
-                        {
-                            "lessonIndex": 87,
-                            "title": "There's nothing + (subject) + can + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2089"
-                        },
-                        {
-                            "lessonIndex": 88,
-                            "title": "Rumor has it that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2090"
-                        }
-                    ]
-                },
-                {
-                    "title": "DFS",
-                    "description": "English Speaking Basics is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This first section contains the first 30 lessons.  Go through them 1 by 1 until you are familiar with each sentence.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_I.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 0,
-                            "title": "zcl",
-                            "link": ""
-                        },
-                        {
-                            "lessonIndex": 1,
-                            "title": "Variations of 'I'm in/at/on'",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2002"
-                        },
-                        {
-                            "lessonIndex": 2,
-                            "title": "I'm good at",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2003"
-                        },
-                        {
-                            "lessonIndex": 3,
-                            "title": "I'm + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2005"
-                        },
-                        {
-                            "lessonIndex": 4,
-                            "title": "I'm getting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2006"
+                            "lessonIndex": 163,
+                            "title": "Quick Sort"
                         },
                         {
-                            "lessonIndex": 5,
-                            "title": "I'm trying + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2007"
+                            "lessonIndex": 164,
+                            "title": "if p < r\n"
                         },
                         {
-                            "lessonIndex": 6,
-                            "title": "I'm gonna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2008"
+                            "lessonIndex": 165,
+                            "title": " q=Partition(A, p, r)\n"
                         },
                         {
-                            "lessonIndex": 7,
-                            "title": "I have + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2009"
+                            "lessonIndex": 166,
+                            "title": " Quicksort(A, p, q-1)\n"
                         },
                         {
-                            "lessonIndex": 8,
-                            "title": "I have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2010"
+                            "lessonIndex": 167,
+                            "title": " Quicksort(A, q+1, r)\n"
                         },
                         {
-                            "lessonIndex": 9,
-                            "title": "I used to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2011"
+                            "lessonIndex": 168,
+                            "title": "Lomuto's partition"
                         },
                         {
-                            "lessonIndex": 10,
-                            "title": "I have to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2012"
+                            "lessonIndex": 169,
+                            "title": "x = A[r]\n"
                         },
                         {
-                            "lessonIndex": 11,
-                            "title": "I wanna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2013"
+                            "lessonIndex": 170,
+                            "title": "i = p - 1\n"
                         },
                         {
-                            "lessonIndex": 12,
-                            "title": "I gotta + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2014"
+                            "lessonIndex": 171,
+                            "title": "for j = p to r - 1\n"
                         },
                         {
-                            "lessonIndex": 13,
-                            "title": "I would like to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2015"
+                            "lessonIndex": 172,
+                            "title": " if A[j] <= x\n"
                         },
                         {
-                            "lessonIndex": 14,
-                            "title": "I plan to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2016"
+                            "lessonIndex": 173,
+                            "title": " i = i + 1\n"
                         },
                         {
-                            "lessonIndex": 15,
-                            "title": "I've decided to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2017"
+                            "lessonIndex": 174,
+                            "title": " exchange A[i]w/A[j]\n"
                         },
                         {
-                            "lessonIndex": 16,
-                            "title": "I was about to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2018"
+                            "lessonIndex": 175,
+                            "title": "exchange A[i + 1] w/ A[r]\n"
                         },
                         {
-                            "lessonIndex": 17,
-                            "title": "I didn't mean to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2019"
+                            "lessonIndex": 176,
+                            "title": "return i + 1\n"
                         },
                         {
-                            "lessonIndex": 18,
-                            "title": "I don't have time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2020"
+                            "lessonIndex": 177,
+                            "title": "Optimal Sorting"
                         },
                         {
-                            "lessonIndex": 19,
-                            "title": "I promise not to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2021"
+                            "lessonIndex": 178,
+                            "title": "Counting Sort"
                         },
                         {
-                            "lessonIndex": 20,
-                            "title": "I'd rather + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2022"
+                            "lessonIndex": 179,
+                            "title": "Coin-Row"
                         },
                         {
-                            "lessonIndex": 21,
-                            "title": "I feel like + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2023"
+                            "lessonIndex": 180,
+                            "title": "Coin Collecting"
                         },
                         {
-                            "lessonIndex": 22,
-                            "title": "I can't help + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2024"
+                            "lessonIndex": 181,
+                            "title": "Steel-Rod"
                         },
-                        {
-                            "lessonIndex": 23,
-                            "title": "I was busy + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2025"
-                        },
-                        {
-                            "lessonIndex": 24,
-                            "title": "I'm not used to + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2026"
-                        },
-                        {
-                            "lessonIndex": 25,
-                            "title": "I want you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2027"
-                        },
-                        {
-                            "lessonIndex": 26,
-                            "title": "I'm here to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2028"
-                        },
-                        {
-                            "lessonIndex": 27,
-                            "title": "I have something + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2029"
-                        },
-                        {
-                            "lessonIndex": 28,
-                            "title": "I'm looking forward to",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2030"
-                        }
-                    ]
-                },
-                {
-                    "title": "Divide and Conquer",
-                    "description": "English Speaking Basics II is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This second section contains the next 30 lessons.  If any lessons are too easy, please move forward to other lessons.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_II.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 29,
-                            "title": "I'm calling to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2031"
-                        },
-                        {
-                            "lessonIndex": 30,
-                            "title": "I'm working on + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2032"
-                        },
-                        {
-                            "lessonIndex": 31,
-                            "title": "I'm sorry to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2033"
-                        },
-                        {
-                            "lessonIndex": 32,
-                            "title": "I'm thinking of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2034"
-                        },
-                        {
-                            "lessonIndex": 33,
-                            "title": "I'll help you + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2035"
-                        },
-                        {
-                            "lessonIndex": 34,
-                            "title": "I'm dying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2036"
-                        },
-                        {
-                            "lessonIndex": 35,
-                            "title": "It's my turn to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2037"
-                        },
-                        {
-                            "lessonIndex": 36,
-                            "title": "It's hard for me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2038"
-                        },
-                        {
-                            "lessonIndex": 37,
-                            "title": "I'm having a hard time + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2039"
-                        },
-                        {
-                            "lessonIndex": 38,
-                            "title": "I think I should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2040"
-                        },
-                        {
-                            "lessonIndex": 39,
-                            "title": "I've heard that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2041"
-                        },
-                        {
-                            "lessonIndex": 40,
-                            "title": "It occurred to me that (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2042"
-                        },
-                        {
-                            "lessonIndex": 41,
-                            "title": "Let me + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2043"
-                        },
-                        {
-                            "lessonIndex": 42,
-                            "title": "Thank you for",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2044"
-                        },
-                        {
-                            "lessonIndex": 43,
-                            "title": "Can I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2045"
-                        },
-                        {
-                            "lessonIndex": 44,
-                            "title": "Can I get + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2046"
-                        },
-                        {
-                            "lessonIndex": 45,
-                            "title": "I'm not sure if (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2047"
-                        },
-                        {
-                            "lessonIndex": 46,
-                            "title": "Do you mind if I + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2048"
-                        },
-                        {
-                            "lessonIndex": 47,
-                            "title": "I don't know what to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2049"
-                        },
-                        {
-                            "lessonIndex": 48,
-                            "title": "I should have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2050"
-                        },
-                        {
-                            "lessonIndex": 49,
-                            "title": "I wish I could + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2051"
-                        },
-                        {
-                            "lessonIndex": 50,
-                            "title": "You should + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2052"
-                        },
-                        {
-                            "lessonIndex": 51,
-                            "title": "You're supposed to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2053"
-                        },
-                        {
-                            "lessonIndex": 52,
-                            "title": "You seem + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2054"
-                        },
-                        {
-                            "lessonIndex": 53,
-                            "title": "You'd better + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2055"
-                        },
-                        {
-                            "lessonIndex": 54,
-                            "title": "Are you into + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2056"
-                        },
-                        {
-                            "lessonIndex": 55,
-                            "title": "Are you trying to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2057"
-                        },
-                        {
-                            "lessonIndex": 56,
-                            "title": "Please + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2058"
-                        },
-                        {
-                            "lessonIndex": 57,
-                            "title": "Don't + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2059"
-                        },
-                        {
-                            "lessonIndex": 58,
-                            "title": "Do you like",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2060"
-                        }
-                    ]
-                },
-                {
-                    "title": "Greedy Method",
-                    "description": "English Speaking Basics III is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This third section contains the next 30 lessons.  Please continue studying until you master each lesson.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_III.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 59,
-                            "title": "How often do you",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2061"
-                        },
-                        {
-                            "lessonIndex": 60,
-                            "title": "Do you want me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2062"
-                        },
-                        {
-                            "lessonIndex": 61,
-                            "title": "What do you think about (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2063"
-                        },
-                        {
-                            "lessonIndex": 62,
-                            "title": "Why don't we + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2064"
-                        },
-                        {
-                            "lessonIndex": 63,
-                            "title": "It's too bad that",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2065"
-                        },
-                        {
-                            "lessonIndex": 64,
-                            "title": "You could have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2066"
-                        },
-                        {
-                            "lessonIndex": 65,
-                            "title": "If I were you, I would + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2067"
-                        },
-                        {
-                            "lessonIndex": 66,
-                            "title": "It's gonna be + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2068"
-                        },
-                        {
-                            "lessonIndex": 67,
-                            "title": "It looks like + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2069"
-                        },
-                        {
-                            "lessonIndex": 68,
-                            "title": "That's why + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2070"
-                        },
-                        {
-                            "lessonIndex": 69,
-                            "title": "It's time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2071"
-                        },
-                        {
-                            "lessonIndex": 70,
-                            "title": "The point is that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2072"
-                        },
-                        {
-                            "lessonIndex": 71,
-                            "title": "How was + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2073"
-                        },
-                        {
-                            "lessonIndex": 72,
-                            "title": "How about + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2074"
-                        },
-                        {
-                            "lessonIndex": 73,
-                            "title": "What if + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2075"
-                        },
-                        {
-                            "lessonIndex": 74,
-                            "title": "How much does it cost to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2076"
-                        },
-                        {
-                            "lessonIndex": 75,
-                            "title": "How come + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2077"
-                        },
-                        {
-                            "lessonIndex": 76,
-                            "title": "What are the chances of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2078"
-                        },
-                        {
-                            "lessonIndex": 77,
-                            "title": "There is something wrong with + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2079"
-                        },
-                        {
-                            "lessonIndex": 78,
-                            "title": "Let's not + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2080"
-                        },
-                        {
-                            "lessonIndex": 79,
-                            "title": "Let's say that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2081"
-                        },
-                        {
-                            "lessonIndex": 80,
-                            "title": "There's no need to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2082"
-                        },
-                        {
-                            "lessonIndex": 81,
-                            "title": "It takes + (time) + to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2083"
-                        },
-                        {
-                            "lessonIndex": 82,
-                            "title": "Please make sure that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2084"
-                        },
-                        {
-                            "lessonIndex": 83,
-                            "title": "Here's to + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2085"
-                        },
-                        {
-                            "lessonIndex": 84,
-                            "title": "It's no use + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2086"
-                        },
-                        {
-                            "lessonIndex": 85,
-                            "title": "There's no way + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2087"
-                        },
-                        {
-                            "lessonIndex": 86,
-                            "title": "It's very kind of you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2088"
-                        },
-                        {
-                            "lessonIndex": 87,
-                            "title": "There's nothing + (subject) + can + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2089"
-                        },
-                        {
-                            "lessonIndex": 88,
-                            "title": "Rumor has it that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2090"
-                        }
-                    ]
-                },
-                {
-                    "title": "Dynamic Programming",
-                    "description": "English Speaking Basics III is for English speaking beginners who need help to understand the basics of speaking English.  We will use very simple phrases and expressions to help you with your English speaking.This third section contains the next 30 lessons.  Please continue studying until you master each lesson.",
-                    "link": "http://www.talkenglish.com/speaking/basics/speaking_basics_III.aspx",
-                    "lessons": [
                         {
-                            "lessonIndex": 59,
-                            "title": "How often do you",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2061"
+                            "lessonIndex": 182,
+                            "title": "Matrix Chain"
                         },
                         {
-                            "lessonIndex": 60,
-                            "title": "Do you want me to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2062"
+                            "lessonIndex": 183,
+                            "title": "Longest Common Subsequence"
                         },
                         {
-                            "lessonIndex": 61,
-                            "title": "What do you think about (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2063"
+                            "lessonIndex": 184,
+                            "title": "Optimal BST"
                         },
                         {
-                            "lessonIndex": 62,
-                            "title": "Why don't we + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2064"
+                            "lessonIndex": 185,
+                            "title": "Recursion with memory"
                         },
                         {
-                            "lessonIndex": 63,
-                            "title": "It's too bad that",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2065"
+                            "lessonIndex": 186,
+                            "title": "Bottom-up Dynamic Programming"
                         },
                         {
-                            "lessonIndex": 64,
-                            "title": "You could have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2066"
+                            "lessonIndex": 187,
+                            "title": "Prim's algorithm"
                         },
                         {
-                            "lessonIndex": 65,
-                            "title": "If I were you, I would + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2067"
+                            "lessonIndex": 188,
+                            "title": "Kruskal's algorithm"
                         },
                         {
-                            "lessonIndex": 66,
-                            "title": "It's gonna be + (adjective)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2068"
+                            "lessonIndex": 189,
+                            "title": "Dijkstra's Algorithm"
                         },
                         {
-                            "lessonIndex": 67,
-                            "title": "It looks like + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2069"
+                            "lessonIndex": 190,
+                            "title": "Union Find implementations"
                         },
                         {
-                            "lessonIndex": 68,
-                            "title": "That's why + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2070"
+                            "lessonIndex": 191,
+                            "title": "Hashing in Dictionary ADT"
                         },
                         {
-                            "lessonIndex": 69,
-                            "title": "It's time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2071"
+                            "lessonIndex": 192,
+                            "title": "Collision resolution"
                         },
                         {
-                            "lessonIndex": 70,
-                            "title": "The point is that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2072"
+                            "lessonIndex": 193,
+                            "title": "Open address with linear probing"
                         },
                         {
-                            "lessonIndex": 71,
-                            "title": "How was + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2073"
+                            "lessonIndex": 194,
+                            "title": "Quadratic hashing"
                         },
                         {
-                            "lessonIndex": 72,
-                            "title": "How about + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2074"
+                            "lessonIndex": 195,
+                            "title": "Double hashing"
                         },
                         {
-                            "lessonIndex": 73,
-                            "title": "What if + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2075"
+                            "lessonIndex": 196,
+                            "title": "Red-Black Trees"
                         },
                         {
-                            "lessonIndex": 74,
-                            "title": "How much does it cost to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2076"
+                            "lessonIndex": 197,
+                            "title": "Rotation (RBT)"
                         },
                         {
-                            "lessonIndex": 75,
-                            "title": "How come + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2077"
+                            "lessonIndex": 198,
+                            "title": "Insertion (RBT)"
                         },
                         {
-                            "lessonIndex": 76,
-                            "title": "What are the chances of + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2078"
+                            "lessonIndex": 199,
+                            "title": "Deletion (RBT)"
                         },
                         {
-                            "lessonIndex": 77,
-                            "title": "There is something wrong with + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2079"
+                            "lessonIndex": 200,
+                            "title": "O(g(n))"
                         },
                         {
-                            "lessonIndex": 78,
-                            "title": "Let's not + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2080"
+                            "lessonIndex": 201,
+                            "title": "for every n>=n0\n"
                         },
                         {
-                            "lessonIndex": 79,
-                            "title": "Let's say that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2081"
+                            "lessonIndex": 202,
+                            "title": "\u03a9(g(n):"
                         },
                         {
-                            "lessonIndex": 80,
-                            "title": "There's no need to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2082"
+                            "lessonIndex": 203,
+                            "title": "for every n>=n0\n"
                         },
                         {
-                            "lessonIndex": 81,
-                            "title": "It takes + (time) + to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2083"
+                            "lessonIndex": 204,
+                            "title": "\u0398(g(n):"
                         },
                         {
-                            "lessonIndex": 82,
-                            "title": "Please make sure that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2084"
+                            "lessonIndex": 205,
+                            "title": "c1 g(n) <= f(n) <= c2 g(n) \n"
                         },
                         {
-                            "lessonIndex": 83,
-                            "title": "Here's to + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2085"
+                            "lessonIndex": 206,
+                            "title": "for every n>=n0\n"
                         },
                         {
-                            "lessonIndex": 84,
-                            "title": "It's no use + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2086"
+                            "lessonIndex": 207,
+                            "title": "Master Method"
                         },
                         {
-                            "lessonIndex": 85,
-                            "title": "There's no way + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2087"
+                            "lessonIndex": 208,
+                            "title": "T(n) = aT(n/b) + f(n)\n"
                         },
                         {
-                            "lessonIndex": 86,
-                            "title": "It's very kind of you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2088"
+                            "lessonIndex": 209,
+                            "title": "1. If f(n)=O(n^(log\u2193b\u2191(a-\u03b5))) for some \u03b5>0, then T(n) is \u03b8(n^log\u2193b^a)\n"
                         },
                         {
-                            "lessonIndex": 87,
-                            "title": "There's nothing + (subject) + can + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2089"
+                            "lessonIndex": 210,
+                            "title": "2. If f(n) = \u03b8(n^(log\u2193b\u2191a), then T(n) is \u03b8(n^(log\u2193b\u2191a) lgn)\n"
                         },
                         {
-                            "lessonIndex": 88,
-                            "title": "Rumor has it that + (subject + verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2090"
+                            "lessonIndex": 211,
+                            "title": "3. If f(n)=\u03a9(n^log\u2193b\u2191a+\u03b5) for some \u03b5>0, and f(n/b)<=cf(n) for some c<1 and large n, then T(n) is \u03b8(f(n))"
                         }
                     ]
                 }
