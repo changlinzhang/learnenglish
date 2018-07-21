@@ -1,0 +1,13 @@
+CPU	Processes instructions and executes them
+Clock Speed	measures how many fetch/execute/decode cycles happen every second
+Cores	Separate processors. More cores=more information processed at same time
+Cache size	fast memory that stores most commonly used instructions
+Address bus	Carries addresses from the processor to memory and input and output devices.
+Data Bus	Sends data between the processor, memory and input/output devices.
+Control Bus	Carries signals to coordinate all the computer activities.
+Control Unit	Coordinates all the activities taking place inside the CPU.
+ALU (arithmetic and logic unit)	Handles all the arithmetic/ logical operations.
+Register	A register is a very fast memory location within the CPU.
+Program counter (PC)	holds the memory address of the next instruction to be processed.
+Current instruction Register (CIR)	holds the current instruction to be executed, which has been copied from MDR.
+Accumulator	All calculations are carried out here.

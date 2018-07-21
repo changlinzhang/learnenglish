@@ -1,0 +1,63 @@
+A FiveState Model	Some processes in the Not Running state are ready to execute Others are blocked, waiting for an I/O operation to complete Running Ready Blocked New Exit
+Accounting information:	May include the amount of processor time and clock time used, time limits, account numbers, and so on.
+Context data:	These are data that are present in registers in the processor while the process is executing.
+Explain This	•Interleaved traces resulting from the first
+52 instruction cycles
+• Assume that the operating system only
+allows a process to continue execution for
+a maximum of six instruction cycle
+• This prevent any single process from
+monopolizing processor time
+﻿• The first six instructions of process A are 
+executed, followed by a time-out 
+• Execution of some code in the dispatcher 
+Which executes six instructions before
+turning control to process B
+• After four instruction are executed,
+process B requests an I/O action for
+which it must wait
+• Processor stop executing process B and
+moves on
+• Via dispatcher, to process C
+• After a time-out, the processor moves
+back to process A
+• Process B is still waiting for the I/O
+operation to complete
+• Again goes to process C
+I/O status information:	Includes outstanding I/O requests, I/O devices (e.g., tape drives) assigned to this process, a list of files in use by the process, and so on.
+Identifier:	A unique identifier associated with this process, to distinguish it from all other processes.
+Kernel	Portion of operating system that is in main memory Contains most frequently used functions Also called the nucleus The remainder of main memory contains other user programs and data. The allocation of this recourses (main memory) is controlled jointly by the operating system and memory management hardware in the processor
+Major Requirements of an Operating System	Interleave the execution of several processes to maximize processor utilization while providing reasonable response time Allocate resources to processes Support interprocess communication
+Memory pointers:	Includes pointers to the program code and data associated with this process, plus any memory blocks shared with other processes.
+Priority:	Priority level relative to other processes.
+Process Creation	A new process is to be added to those currently being managed by operating system Allocates address space in main memory to process 
+Process Creation
+Submission of a batch job 
+User logs on 
+Created to provide a service such as printing Process creates another process
+Process Spawning	An application process may generate another process to receive data that the application is generating and to organize that data into a form suitable for alter analysis A server process may generate new process for each request that it handles When operating system creates a process at the explicit request of another process, the action is referred to as process spawning
+Process Termination	Batch job issues Halt instruction 
+User logs off 
+Quit an application 
+Error and fault conditions
+processor	The principal function of processor is to execute machine instruction residing in main memory These instructions are provided in form of programs For reasons of efficiency and ease of programming, a processor may interleave the execution of a number of programs overtime
+Program counter:	The address of the next instruction in the program to be executed.
+Reason for Five state model	Single queue, the dispatcher would have to scan the list looking for the process that is not blocked and that has been in the queue the longest.
+Reasons for Process Termination	Normal completion 
+Time limit exceeded 
+Memory unavailable 
+Protection error example write to readonly file Arithmetic error Time overrun process waited longer than a specified maximum for an event 
+I/O failure 
+Invalid instruction happens when try to execute data Privileged instruction 
+Data misuse 
+Operating system intervention such as when deadlock occurs 
+Parent terminates so child processes terminate Parent request
+State:	If the process is currently executing, it is in the running state.
+TwoState Process Model	Simplest possible model by observing that, any time a process is either being executed by processor or not. Process may be in one of two states Running Notrunning 
+Each process must be represented in some way so that operating system can keep track of it
+Must contain some information relating to each process, current state and location in memory 
+Process that are not running must be kept in some sort of queue, waiting their turn to execute
+What is a Process	Several definitions of process includes
+ (a)A program in execution
+ (b) An instance of a program running on a computer
+(c) The entity that can be assigned to and executed on a processor At any given point in time, while the program is executing.

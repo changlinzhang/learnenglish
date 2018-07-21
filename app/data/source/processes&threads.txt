@@ -1,0 +1,82 @@
+Process	An abstraction of a running program. A process is an instance of an executing program.
+Multiprocessor	Two or more CPUs sharing the same physical memory.
+Pseudoparallelism	Processing multiple processes in a frame of time that seems like it is occurring in parallel.
+Multi-programming	The ability to switch from one process to another.
+Application Layer	Space in memory where an application lives.
+Context switch	Is when the processor gives control of the CPU to another process. This is necessary to multi-task and save time.
+Interrupt Vector	Location in memory where the address of the interrupt service procedure lives.
+Threads	A process within a process. Individual threads within a process, will have their own unique stack.
+Print Spooler	When a file is to be printed, it is loaded into a folder called a spooler. In the background, a daemon runs, checking the folder for any document that needs to be printed.
+Daemon	A computer program that runs as a background process.
+Race condition	A situation where multiple processes or threads must run in a specific order to achieve the desired output.
+Mutex	A semaphore that has 2 possible values: 0 or 1
+Semaphore	An intger that has two functions associated with it: UP( ) and DOWN( ) that happen atomically. Down is wait and up is signal.
+Atomic function	A function that occurs atomically is seen as a function that occurs as one divisible operation.
+Scheduler	The mechanism that decides which process is to gain control of the CPU.
+Batch System	Usually not human controlled where a set of processes need to run to accomplish an end-goal.
+Interactive Systems	Generally user based, but processes that need to run are based upon some form of input and response chain.
+Real-Time Systems	Systems where real life consequences are determined by which processes run. If scheduling deadlines and not met, people die.
+Guaranteed Scheduling	If we have N processes, a fairness algorithm states that each process will be guaranteed (1/N) timed control of the CPU.
+Fairness	Giving each process a fair share of the CPU to accomplish its goal.
+Policy Enforcement	A checks and balances system, where the stated policy of a scheduler is checked on, to make sure it is being carried out.
+Balance	Keep all parts of the system busy. (pipelining)
+Throughput	The maximum number of jobs per hour. (Batch systems)
+Turnaround time	Minimize the amount of time between job submission and job termination. (Batch systems)
+CPU Utilization	Keep CPU busy at all times. (Batch systems)
+Response time	Respond to users' requests quickly. (Interactive systems)
+Proportionality	Meet users' expectations. (Interactive systems)
+Non-preemptable Scheduler	Control of the CPU by a process can not be taken away.
+Preemptable Scheduler	Control of CPU by a process can be taken away, with no, or minimal side effects. Loss of data is not an acceptable side effect.
+FIFO Batch System Scheduler	A first in, first out scheduler. As jobs come in they are processed to completion. Has a major issue with throughput. Implemented with a queue.
+Shortest Job First Batch System Scheduler	Assumption is that runtimes are known oor estimated beforehand. Process the shortest job first, then the next shortest, and so on. Implemented with a sorted list (array).
+Shortest Remaining Time Next Batch System Scheduler	No assumption about arrival time. Still uses shortest job first, but is done as jobs arrive. Implemented with a priority queue, where the priority is the shortest time remaining, or a dynamic array (ArrayList).
+Round Robin	An interactive scheduler. Develop a quantum q, where q is some span of time (Statistics say 5-10 seconds). Jobs are placed in a FIFO system and each job will run for q or until completion, whichever happens first. If more time is needed, the process goes to the back of the line. Implemented using a clock.
+Priority Scheduling	A Round Robin that is used with a priority. Stored elements in a heap run for a quantum, then the priority is adjusted.
+Priority Classes	We subdivide each process into a class with a given priority. We then run Round Robin on the lowest available class. (this is not good on its own)
+Multiple Queues	Have priority classes. Most implementations have each process start at the lowest class, except when processes expire this quantum, they then get bumped down to a lower class. Each class increases its quantum by 2.
+Shortest Process Next	Create an estimation of a process runtime based upon an aging formula. Keep track of X number of previous runs and each run after the last, loses its effect overall based upon your aging. Then chose which process to use next based upon a minimal estimated runtime.
+Threads in User Space	Kernel has no idea these exist and each process still runs based upon the Kernel's schedule. If a thread within a process blocks, then the whole process will block.Wrappers can be used to ask the Kernel is a particular request will block.
+Threads in Kernel Space	The Kernel manages and schedules the running of all threads. If a thread blocks, the Kernel can switch to any other thread it is aware of, no matter the process. Thread pools are used to mitigate overhead with creation and deletion. In thread pools, threads are not deleted, but their process pool is to be occupied by another thread.
+Critical Region	Any shared resource by multiple processes or threads.
+Consumer	The job of the consumer is to un-box "work" from the buffer and "consume" it by applying the work to an open CPU.
+Producer	The job of the producer is to prepare the "work" in whatever encapsulation that you need, and make sure that it enters the feeding buffer in such a way to not inhibit the consumer.
+Aperiodic Event	An event that occurs unpredictably.
+Periodic Event	Events that occur at regular intervals.
+Soft Real Time Systems	A deadline may be missed, but that is not optimal. Safeguards are in place for recovery. (Real-Time Systems)
+Hard Real Time Systems	A deadline must be met, or else! (Real-Time Systems)
+Fair Share Scheduling	Example: User 1 on a machine has 9 processes open. User 2 has 1. IF we context switch based on processes alone, User 1 gets 90% of the CPU and User 2 gets 10%.
+In fair share scheduling, we devise an algorithm to increase the likelihood a user with less processes gets picked, but not one that makes it entirely equal. (Interactive 
+Systems)
+Starvation	A situation where all the programs continue to run indefinitely but fail to make any progress.
+Lottery Scheduling Optimization	When a process wins the lottery, all tickets are forfeited by the process. If a process loses a drawing, it is awarded an extra ticket.
+Individual processes (or threads) can give lottery tickets to other processes, or threads, to prevent starvation.
+Lottery Scheduling	After a specified quantum elapses we have a drawing. The winner of the drawing gets control of the CPU.
+Flow of control from user to hardware	1. user 2. input (keyboard/mouse) 3. Application layer 4. Kernel 5. Hardware 6. Kernel 7. Application Layer 8. Output (monitor) 9. User --- (n-1 design)
+Kernel	Tasked with communicating with the hardware. Is responsible for task scheduling, loading/unloading applications from memory, file management, and data security. Not a process, but is a computer program.
+User	The person or component making requests of a system.
+I/O	input/output used for sending/receiving information to/from a user.
+Operating Systems	Talks to applications and is responsible for handling I/O requests.
+Four main areas of Operating System	1. The Kernel 2. Device Drivers 3. User Interface 4. System Utilities
+Physical Program Counter	1. Address of instruction that is currently being executed. 2. Address of next instruction that needs to be executed.
+Logical Program Counter	A program counter that is specific to a single process.
+Program Counter	Contains the memory address of the next instruction to be fetched.
+Difference between a process and a thread	Process is greedy, threads in cojnunction with each other for the overall good of their parent process.
+States of a process	1. Running - has control of CPU. 2. Ready - Processes that aren't running, but have the ability. 3. Blocked/waiting - Not available to run due to some constraint. 4. Terminated.
+fork( )	Creates a new address space that is an exact copy (shallow copy) of the old process. Process hierarchy/process tree. Linux
+createProcess(0, 1, . . . 9 )	Creates a new address space that is empty and whose characteristics are created based upon the function's parameters. No process hierarchy. Windows
+Address space	The range of addresses a process can occupy.
+How to destroy processes	1. Voluntary control exit (return 0) 2. Voluntary graceful exit (exception handling) 3. Involuntary exit (unhandled exception) 4. Killed/Terminated by another process involuntarily. (similar to Linux kill command or Java's garbage collection)
+Interrupt	When the controller detects the end of the transfer, it generates an interrupt to signal completion.
+Where can a process go from the running state?	Ready or Blocked
+Where can a process go from the blocked state?	Ready
+Where can a process go from the ready state?	Running
+Where can a process go from the terminated state?	Nowhere
+Can the processor ever stop working?	No, because the computer will crash and have a BSOD.
+How are processes created and who creates them?	1. System init 2. A running process. 3. User request 4. Batch jobs
+What causes an exception?	Instructions
+User space	A set of locations where normal user processes run (i.e everything other than the kernel). The role of the kernel is to manage applications running in this space from messing with each other, and the machine.
+Kernel space	The location where the code of the kernel is stored, and executes under.
+Difference between fork( ) and createProcess( )	fork( ) copies the address space, createProcess( ) does not.
+What is a detriment to strict alternation?	Does not satisfy the progress condition.
+Spin lock	A lock that uses busy waiting.
+Busy waiting	Continuously testing a variable until some value appears.
