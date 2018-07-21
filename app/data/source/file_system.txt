@@ -1,0 +1,28 @@
+auditing	The process an OS uses to detect and log security-related events.
+basic disk	A disk that contains basic volumes, such as primary partitions, extended partitions, and logical drives.
+binary search	A programming technique for quickly locating an item in a sequential list.
+buffer cache	A region of memory that holds frequently used data values.
+cluster	A disk storage unit that consists of a fixed number of sectors.
+compression	A means of reducing the amount of space needed to store a block of data.
+decompression	The opposite of compression; restoring the contents of a compressed file to its original form.
+defragmentation	The process of writing parts of a file to contiguous sectors on a hard drive to speed access and retrieval.
+dynamic disk	A disk that contains dynamic volumes, such as simple volumes. Dynamic disk storage is divided into volumes instead of partitions.
+encryption	The process of encoding data to prevent unauthorized access.
+exFAT	The Extended File Allocation Table is a Microsoft file system optimized for flash drives.
+FAT32	A file system first used by Windows 95 OSR 2 that uses 32-bit sector addresses (of which 28 bits are currently used).
+file allocation table (FAT)	A table that an operating system maintains to provide the cluster locations of a file.
+file system	The overall structure in which files are named, stored, and organized. A file system consists of files, directories (or folders), and the information needed to locate and access these items.
+formatting	Preparing a file system so that a disk can be used to store programs and data.
+fragmentation	The scattering of parts of the same file over different areas of a hard drive.
+master file table (MFT)	A special file that contains the attributes of each file created using NTFS; the MFT is used to locate a file on a hard drive.
+NTFS (New Technology File System)	The default file system for new installations of Windows 10; first used by Windows NT
+partition	A logical storage area on a drive.
+primary partition	A portion of a drive that functions as a physically separate allocation unit.
+quota	A restriction on users' ability to exceed limits placed on file system resources. It allows administrators to effectively manage disk space shared by multiple users.
+sector	The smallest unit of space on a disk; typically 512 bytes.
+Storage area	An area on a disk that can be allocated and formatted for a file system.
+subdirectory	A logical grouping of related files in Windows 10.
+superblock	Part of a UFS file system that contains an identifying number and other numbers that describe the file system's geometry, statistics, and behavioral parameters.
+swap file	A hidden file on a hard drive that is used to hold parts of programs and data files that do not fit in memory. The OS moves data from the swap file to memory as needed and moves data out of memory to the swap file to make room for new data.
+terabyte	A measurement of high-capacity storage. A terabyte is about 1 trillion bytes.
+volume	A fixed amount of storage on a hard drive.

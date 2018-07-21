@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nPrint Spooler\r\n</h1>\r\nWhen a file is to be printed, it is loaded into a folder called a spooler. In the background, a daemon runs, checking the folder for any document that needs to be printed.\n",
+    "lessonIndex": "p&t8",
+    "sectionIndex": 1,
+    "title": "Print Spooler"
+}

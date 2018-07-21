@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nShortest Job First Batch System Scheduler\r\n</h1>\r\nAssumption is that runtimes are known oor estimated beforehand. Process the shortest job first, then the next shortest, and so on. Implemented with a sorted list (array).\n",
+    "lessonIndex": "p&t30",
+    "sectionIndex": 1,
+    "title": "Shortest Job First Batch System Scheduler"
+}

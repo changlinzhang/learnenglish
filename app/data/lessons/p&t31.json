@@ -1,0 +1,7 @@
+{
+    "categoryIndex": 1,
+    "html": "\r\n<h1>\r\nShortest Remaining Time Next Batch System Scheduler\r\n</h1>\r\nNo assumption about arrival time. Still uses shortest job first, but is done as jobs arrive. Implemented with a priority queue, where the priority is the shortest time remaining, or a dynamic array (ArrayList).\n",
+    "lessonIndex": "p&t31",
+    "sectionIndex": 1,
+    "title": "Shortest Remaining Time Next Batch System Scheduler"
+}
