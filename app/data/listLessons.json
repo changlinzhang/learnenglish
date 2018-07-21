@@ -13,148 +13,539 @@
                     "lessons": [
                         {
                             "lessonIndex": 0,
-                            "title": "zcl",
-                            "link": ""
+                            "title": "Array: access, search, insert, delete"
                         },
                         {
                             "lessonIndex": 1,
-                            "title": "Variations of 'I'm in/at/on'",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2002"
+                            "title": "Search: O(n)\n"
                         },
                         {
                             "lessonIndex": 2,
-                            "title": "I'm good at",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2003"
+                            "title": "Insert: O(n)\n"
                         },
                         {
                             "lessonIndex": 3,
-                            "title": "I'm + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2005"
+                            "title": "Delete: O(n)\n"
                         },
                         {
                             "lessonIndex": 4,
-                            "title": "I'm getting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2006"
+                            "title": "Array: memory"
                         },
                         {
                             "lessonIndex": 5,
-                            "title": "I'm trying + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2007"
+                            "title": "Array: advantage, disadvantage"
                         },
                         {
                             "lessonIndex": 6,
-                            "title": "I'm gonna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2008"
+                            "title": "Disadvantage: slow search, slow delete, fixed size\n"
                         },
                         {
                             "lessonIndex": 7,
-                            "title": "I have + (noun)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2009"
+                            "title": "Doubly Linked List: access, search, insert, delete"
                         },
                         {
                             "lessonIndex": 8,
-                            "title": "I have + (past participle)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2010"
+                            "title": "Search: O(n)\n"
                         },
                         {
                             "lessonIndex": 9,
-                            "title": "I used to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2011"
+                            "title": "Insert: O(1)\n"
                         },
                         {
                             "lessonIndex": 10,
-                            "title": "I have to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2012"
+                            "title": "Delete: O(1)\n"
                         },
                         {
                             "lessonIndex": 11,
-                            "title": "I wanna + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2013"
+                            "title": "Doubly Linked List: memory"
                         },
                         {
                             "lessonIndex": 12,
-                            "title": "I gotta + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2014"
+                            "title": "Doubly Linked List: advantage, disadvantage"
                         },
                         {
                             "lessonIndex": 13,
-                            "title": "I would like to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2015"
+                            "title": "Disadvantage: slow search\n"
                         },
                         {
                             "lessonIndex": 14,
-                            "title": "I plan to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2016"
+                            "title": "Binary Tree: advantage, disadvantage"
                         },
                         {
                             "lessonIndex": 15,
-                            "title": "I've decided to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2017"
+                            "title": "Disadvantage: complex deletion\n"
                         },
                         {
                             "lessonIndex": 16,
-                            "title": "I was about to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2018"
+                            "title": "# of elements in a binary tree"
                         },
                         {
                             "lessonIndex": 17,
-                            "title": "I didn't mean to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2019"
+                            "title": "Heap: advantage, disadvantage"
                         },
                         {
                             "lessonIndex": 18,
-                            "title": "I don't have time to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2020"
+                            "title": "Disadvantage: slow access to all other items\n"
                         },
                         {
                             "lessonIndex": 19,
-                            "title": "I promise not to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2021"
+                            "title": "Heap Binary Tree: access, search, insert, delete,"
                         },
                         {
                             "lessonIndex": 20,
-                            "title": "I'd rather + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2022"
+                            "title": "Search: O(n)\n"
                         },
                         {
                             "lessonIndex": 21,
-                            "title": "I feel like + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2023"
+                            "title": "Insert: O (lg n)\n"
                         },
                         {
                             "lessonIndex": 22,
-                            "title": "I can't help + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2024"
+                            "title": " Best case: sorted array\n"
                         },
                         {
                             "lessonIndex": 23,
-                            "title": "I was busy + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2025"
+                            "title": "Delete: O (lg n)\n"
                         },
                         {
                             "lessonIndex": 24,
-                            "title": "I'm not used to + (verb-ing)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2026"
+                            "title": "Heap Binary Tree: max-heapify, build-max-heap, heap-sort"
                         },
                         {
                             "lessonIndex": 25,
-                            "title": "I want you to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2027"
+                            "title": "Build-max-heap: O(n)\n"
                         },
                         {
                             "lessonIndex": 26,
-                            "title": "I'm here to + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2028"
+                            "title": "Heap-sort: O(n lgn)\n"
                         },
                         {
                             "lessonIndex": 27,
-                            "title": "I have something + (verb)",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2029"
+                            "title": "Heap Binary Tree: memory"
                         },
                         {
                             "lessonIndex": 28,
-                            "title": "I'm looking forward to",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=2030"
+                            "title": "Heap Binary Tree: definition"
+                        },
+                        {
+                            "lessonIndex": 29,
+                            "title": "Shape - complete tree\n"
+                        },
+                        {
+                            "lessonIndex": 30,
+                            "title": "Heap property - max/min heap\n"
+                        },
+                        {
+                            "lessonIndex": 31,
+                            "title": "Heap Binary Tree: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 32,
+                            "title": "Disadvantage: slow search, efficient memory if full\n"
+                        },
+                        {
+                            "lessonIndex": 33,
+                            "title": "Heap-sort: definition"
+                        },
+                        {
+                            "lessonIndex": 34,
+                            "title": "Take off bottom, reshuffle, repeat\n"
+                        },
+                        {
+                            "lessonIndex": 35,
+                            "title": "Less efficient than max-heapify because it sorts from the top instead of the bottom\n"
+                        },
+                        {
+                            "lessonIndex": 36,
+                            "title": "Binary Search Tree: search, insert, delete"
+                        },
+                        {
+                            "lessonIndex": 37,
+                            "title": "Insert: O(h) / balanced, O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 38,
+                            "title": "Delete: O(h) / balanced, O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 39,
+                            "title": "Binary Search Tree: max, min, successor, predecessor"
+                        },
+                        {
+                            "lessonIndex": 40,
+                            "title": "Min: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 41,
+                            "title": "Successor: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 42,
+                            "title": "Predecessor: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 43,
+                            "title": "Binary Search Tree: property"
+                        },
+                        {
+                            "lessonIndex": 44,
+                            "title": "value[right[x] >= value[x]\n"
+                        },
+                        {
+                            "lessonIndex": 45,
+                            "title": "Binary Search Tree: memory"
+                        },
+                        {
+                            "lessonIndex": 46,
+                            "title": "Binary Search Tree: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 47,
+                            "title": "Disadvantage: slower than hash table\n"
+                        },
+                        {
+                            "lessonIndex": 48,
+                            "title": "Height of binary tree"
+                        },
+                        {
+                            "lessonIndex": 49,
+                            "title": "\n"
+                        },
+                        {
+                            "lessonIndex": 50,
+                            "title": "log(n) - complete binary tree\n"
+                        },
+                        {
+                            "lessonIndex": 51,
+                            "title": "Node height"
+                        },
+                        {
+                            "lessonIndex": 52,
+                            "title": "Node depth"
+                        },
+                        {
+                            "lessonIndex": 53,
+                            "title": "Tries: advantage, disadvantage, memory"
+                        },
+                        {
+                            "lessonIndex": 54,
+                            "title": "Disadvantage: can take up more space than a hash table\n"
+                        },
+                        {
+                            "lessonIndex": 55,
+                            "title": "Memory: A LOT - need empty memory for every possibility\n"
+                        },
+                        {
+                            "lessonIndex": 56,
+                            "title": "Tries: definition"
+                        },
+                        {
+                            "lessonIndex": 57,
+                            "title": "Key -not- stored in node, value stored in node\n"
+                        },
+                        {
+                            "lessonIndex": 58,
+                            "title": "\n"
+                        },
+                        {
+                            "lessonIndex": 59,
+                            "title": "Node variables : Boolean isNode, String value, array Edges\n"
+                        },
+                        {
+                            "lessonIndex": 60,
+                            "title": "Heap Priority Queue: insert, max, extract max, increase value"
+                        },
+                        {
+                            "lessonIndex": 61,
+                            "title": "Heap-maximum: O(1)\n"
+                        },
+                        {
+                            "lessonIndex": 62,
+                            "title": "Heap-extract-max: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 63,
+                            "title": "Heap-increase-value: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 64,
+                            "title": "Priority Queue: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 65,
+                            "title": "Disadvantage: worse at inserting and searching than BST\n"
+                        },
+                        {
+                            "lessonIndex": 66,
+                            "title": "BST Priority Queue: insert, max, extract max, increase valye"
+                        },
+                        {
+                            "lessonIndex": 67,
+                            "title": "BST-maximum: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 68,
+                            "title": "BST-extract-max: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 69,
+                            "title": "BST-increase-value: O(h)\n"
+                        },
+                        {
+                            "lessonIndex": 70,
+                            "title": "Red Black Tree: search, insert, delete"
+                        },
+                        {
+                            "lessonIndex": 71,
+                            "title": "Insert: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 72,
+                            "title": "Delete: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 73,
+                            "title": "Red Black Tree: max, min, successor, predecessory"
+                        },
+                        {
+                            "lessonIndex": 74,
+                            "title": "Min: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 75,
+                            "title": "Successor: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 76,
+                            "title": "Predecessor: O(lg n)\n"
+                        },
+                        {
+                            "lessonIndex": 77,
+                            "title": "Red Black Tree: memory"
+                        },
+                        {
+                            "lessonIndex": 78,
+                            "title": "Red Black Tree: height"
+                        },
+                        {
+                            "lessonIndex": 79,
+                            "title": "Red Black Tree: properties"
+                        },
+                        {
+                            "lessonIndex": 80,
+                            "title": "2. The root is black\n"
+                        },
+                        {
+                            "lessonIndex": 81,
+                            "title": "3. Every leaf (NIL) is black\n"
+                        },
+                        {
+                            "lessonIndex": 82,
+                            "title": "4. If a node is red, then both its children are black\n"
+                        },
+                        {
+                            "lessonIndex": 83,
+                            "title": "5. All simple paths from node to child leaves contain the same # of black nodes\n"
+                        },
+                        {
+                            "lessonIndex": 84,
+                            "title": "Red Black Tree: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 85,
+                            "title": "Disadvantage: complex implementation\n"
+                        },
+                        {
+                            "lessonIndex": 86,
+                            "title": "Black height"
+                        },
+                        {
+                            "lessonIndex": 87,
+                            "title": "Dictionary: definition"
+                        },
+                        {
+                            "lessonIndex": 88,
+                            "title": "Direct-access table: definition"
+                        },
+                        {
+                            "lessonIndex": 89,
+                            "title": "Direct-access table: memory"
+                        },
+                        {
+                            "lessonIndex": 90,
+                            "title": "Direct-access table: search"
+                        },
+                        {
+                            "lessonIndex": 91,
+                            "title": "Direct-access table: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 92,
+                            "title": "Disadvantage: lots of wasted memory, keys must be unique, keys should be dense\n"
+                        },
+                        {
+                            "lessonIndex": 93,
+                            "title": "Hash tables: memory"
+                        },
+                        {
+                            "lessonIndex": 94,
+                            "title": "Memory: O(n)\n"
+                        },
+                        {
+                            "lessonIndex": 95,
+                            "title": "Hash tables: search, insert, delete"
+                        },
+                        {
+                            "lessonIndex": 96,
+                            "title": "Insert: O(1-n)\n"
+                        },
+                        {
+                            "lessonIndex": 97,
+                            "title": "Delete: O(1-n)\n"
+                        },
+                        {
+                            "lessonIndex": 98,
+                            "title": "Hash collision"
+                        },
+                        {
+                            "lessonIndex": 99,
+                            "title": "Chaining"
+                        },
+                        {
+                            "lessonIndex": 100,
+                            "title": "ArrayLists: insert"
+                        },
+                        {
+                            "lessonIndex": 101,
+                            "title": "ArrayLists: advantages, disadvantages"
+                        },
+                        {
+                            "lessonIndex": 102,
+                            "title": "Disadvantage: inserting can be slower than an array\n"
+                        },
+                        {
+                            "lessonIndex": 103,
+                            "title": "Stack: definition"
+                        },
+                        {
+                            "lessonIndex": 104,
+                            "title": "Stack: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 105,
+                            "title": "Disadvantage: inefficient with an array\n"
+                        },
+                        {
+                            "lessonIndex": 106,
+                            "title": "Graph: definition"
+                        },
+                        {
+                            "lessonIndex": 107,
+                            "title": "Graph: advantage, disadvantage"
+                        },
+                        {
+                            "lessonIndex": 108,
+                            "title": "Disadvantage: can be slow and complex\n"
+                        },
+                        {
+                            "lessonIndex": 109,
+                            "title": "Adjacency list: memory"
+                        },
+                        {
+                            "lessonIndex": 110,
+                            "title": "Adjacency list: add vertex/edge, delete vertex/edge"
+                        },
+                        {
+                            "lessonIndex": 111,
+                            "title": "Add edge: O(1)\n"
+                        },
+                        {
+                            "lessonIndex": 112,
+                            "title": "Delete vertex: O(|E|)\n"
+                        },
+                        {
+                            "lessonIndex": 113,
+                            "title": "Delete edge: O(|E|)\n"
+                        },
+                        {
+                            "lessonIndex": 114,
+                            "title": "Adjacency list: query for adjacency"
+                        },
+                        {
+                            "lessonIndex": 115,
+                            "title": "Adjacency matrix: memory"
+                        },
+                        {
+                            "lessonIndex": 116,
+                            "title": "Adjacency matrix: add vertex/edge, delete vertex/edge"
+                        },
+                        {
+                            "lessonIndex": 117,
+                            "title": "Add edge: O(1)\n"
+                        },
+                        {
+                            "lessonIndex": 118,
+                            "title": "Delete vertex: O(|V|^2)\n"
+                        },
+                        {
+                            "lessonIndex": 119,
+                            "title": "Delete edge: O(1)\n"
+                        },
+                        {
+                            "lessonIndex": 120,
+                            "title": "Adjacency matrix: query for adjacency"
+                        },
+                        {
+                            "lessonIndex": 121,
+                            "title": "Breadth-first search"
+                        },
+                        {
+                            "lessonIndex": 122,
+                            "title": "Often used to find the shortest path from one vertex to another.\n"
+                        },
+                        {
+                            "lessonIndex": 123,
+                            "title": "A queue is usually implemented\n"
+                        },
+                        {
+                            "lessonIndex": 124,
+                            "title": "Depth-first search"
+                        },
+                        {
+                            "lessonIndex": 125,
+                            "title": "A stack is usually implemented\n"
+                        },
+                        {
+                            "lessonIndex": 126,
+                            "title": "Java stream: definition"
+                        },
+                        {
+                            "lessonIndex": 127,
+                            "title": "Exception handling"
+                        },
+                        {
+                            "lessonIndex": 128,
+                            "title": "O(1)"
+                        },
+                        {
+                            "lessonIndex": 129,
+                            "title": "O(lg n)"
+                        },
+                        {
+                            "lessonIndex": 130,
+                            "title": "O(n)"
+                        },
+                        {
+                            "lessonIndex": 131,
+                            "title": "\u0398-notation"
+                        },
+                        {
+                            "lessonIndex": 132,
+                            "title": "O-notation"
+                        },
+                        {
+                            "lessonIndex": 133,
+                            "title": "\u03a9-notation"
                         }
                     ]
                 },
