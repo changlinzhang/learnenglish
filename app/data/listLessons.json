@@ -3540,494 +3540,534 @@
                     "lessons": [
                         {
                             "lessonIndex": 371,
-                            "title": "Machine Problems",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=436"
+                            "title": "converged network"
                         },
                         {
                             "lessonIndex": 372,
-                            "title": "Mail Room",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=437"
+                            "title": "example, voice, video, and data)\n"
                         },
                         {
                             "lessonIndex": 373,
-                            "title": "Requesting Equipment",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=438"
+                            "title": "Client"
                         },
                         {
                             "lessonIndex": 374,
-                            "title": "Company Policies",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=439"
+                            "title": "Server"
                         },
                         {
                             "lessonIndex": 375,
-                            "title": "I'm Busy",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=440"
+                            "title": "Hub"
                         },
                         {
                             "lessonIndex": 376,
-                            "title": "Giving/Asking Business Cards",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=441"
+                            "title": "port"
                         },
                         {
                             "lessonIndex": 377,
-                            "title": "General Office",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=442"
+                            "title": "Switch"
                         },
                         {
                             "lessonIndex": 378,
-                            "title": "Office Basics - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=443"
-                        }
-                    ]
-                },
-                {
-                    "title": "Late or No Show",
-                    "description": "Late or No Show section contains Business English lessons on Arriving to work late, leaving work early, using a sick day or a vacation day.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/late.aspx",
-                    "lessons": [
+                            "title": "host"
+                        },
                         {
                             "lessonIndex": 379,
-                            "title": "A Little Late",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=444"
+                            "title": "Router"
                         },
                         {
                             "lessonIndex": 380,
-                            "title": "Very Late",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=445"
+                            "title": "Media"
                         },
                         {
                             "lessonIndex": 381,
-                            "title": "Leaving Work Early",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=446"
+                            "title": "WAN link"
                         },
                         {
                             "lessonIndex": 382,
-                            "title": "Sick day",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=447"
+                            "title": "Local-area network"
                         },
                         {
                             "lessonIndex": 383,
-                            "title": "Vacation",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=453"
+                            "title": "Wide-area network"
                         },
                         {
                             "lessonIndex": 384,
-                            "title": "Late or No Show - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=454"
-                        }
-                    ]
-                },
-                {
-                    "title": "Computer Related",
-                    "description": "Computer Related section contains Business English lessons on Removable and Hard Disk Drives, Network and Public Share, Software, Internet and Intranet, and General Computer Sentences.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/comprelated.aspx",
-                    "lessons": [
+                            "title": "Campus-area network"
+                        },
                         {
                             "lessonIndex": 385,
-                            "title": "Removable Disk",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=455"
+                            "title": "Metropolitan-area network"
                         },
                         {
                             "lessonIndex": 386,
-                            "title": "Hard Drive",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=456"
+                            "title": "Personal-area network"
                         },
                         {
                             "lessonIndex": 387,
-                            "title": "Network share and public share",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=452"
+                            "title": "LAN"
                         },
                         {
                             "lessonIndex": 388,
-                            "title": "Software",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=457"
+                            "title": "LAN"
                         },
                         {
                             "lessonIndex": 389,
-                            "title": "Internet",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=458"
+                            "title": "WAN"
                         },
                         {
                             "lessonIndex": 390,
-                            "title": "Intranet",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=459"
+                            "title": "WAN"
                         },
                         {
                             "lessonIndex": 391,
-                            "title": "General Computer Sentences",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=460"
+                            "title": "CAN"
                         },
                         {
                             "lessonIndex": 392,
-                            "title": "Computer Related - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=461"
-                        }
-                    ]
-                },
-                {
-                    "title": "Email",
-                    "description": "The Email Related section contains Business English lessons on Asking for email address, requesting information through email, sending attachments, email problems, reply versus reply all, and other General email sentences.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/emailrelated.aspx",
-                    "lessons": [
+                            "title": "MAN"
+                        },
                         {
                             "lessonIndex": 393,
-                            "title": "Asking for Email Address",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=462"
+                            "title": "PAN"
                         },
                         {
                             "lessonIndex": 394,
-                            "title": "Requesting information through email",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=463"
+                            "title": "logical topology"
                         },
                         {
                             "lessonIndex": 395,
-                            "title": "Sending attachments through email",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=464"
+                            "title": "physical topology"
                         },
                         {
                             "lessonIndex": 396,
-                            "title": "Email Problems",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=465"
+                            "title": "Bus Topology"
                         },
                         {
                             "lessonIndex": 397,
-                            "title": "Reply and Reply All",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=466"
+                            "title": "Bus Topology"
                         },
                         {
                             "lessonIndex": 398,
-                            "title": "Forwarding Mail",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=467"
+                            "title": "Bus Topology"
                         },
                         {
                             "lessonIndex": 399,
-                            "title": "General email sentences",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=468"
+                            "title": "Bus Topology"
                         },
                         {
                             "lessonIndex": 400,
-                            "title": "Email - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=469"
-                        }
-                    ]
-                },
-                {
-                    "title": "Explanations and Presentations",
-                    "description": "This section contains Business English lessons on Explanations and Presentations. Although this is a short section, the information here is very useful, so do not skip this section.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/presentations.aspx",
-                    "lessons": [
+                            "title": "Bus Topology"
+                        },
                         {
                             "lessonIndex": 401,
-                            "title": "Explanations and Presentations General",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=470"
+                            "title": "Ring Topology"
                         },
                         {
                             "lessonIndex": 402,
-                            "title": "Explanation",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=471"
+                            "title": "Ring Topology"
                         },
                         {
                             "lessonIndex": 403,
-                            "title": "Presentation",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=472"
-                        }
-                    ]
-                },
-                {
-                    "title": "Meetings",
-                    "description": "The Meetings section contains Business English lessons on Common sentences before, during, and after meetings. Also, helpful sentences on canceling meetings along with other General Statements.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/meetings.aspx",
-                    "lessons": [
+                            "title": "Token Ring and FDDI"
+                        },
                         {
                             "lessonIndex": 404,
-                            "title": "Before the meeting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=473"
+                            "title": "Fiber Distributed Data Interface"
                         },
                         {
                             "lessonIndex": 405,
-                            "title": "Canceling a Meeting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=474"
+                            "title": "counter-rotating rings"
                         },
                         {
                             "lessonIndex": 406,
-                            "title": "During the Meeting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=475"
+                            "title": "Ring Topology"
                         },
                         {
                             "lessonIndex": 407,
-                            "title": "After the Meeting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=476"
+                            "title": "Ring Topology"
                         },
                         {
                             "lessonIndex": 408,
-                            "title": "General Statements",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=477"
-                        }
-                    ]
-                },
-                {
-                    "title": "Phone Calls",
-                    "description": "Phone Calls section contains Business English lessons on Receiving and Redirecting calls, Taking and Leaving Messages, and Sending and Receiving Information.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/phonecalls.aspx",
-                    "lessons": [
+                            "title": "Ring Topology"
+                        },
                         {
                             "lessonIndex": 409,
-                            "title": "Phone Call",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=478"
+                            "title": "Star Topology"
                         },
                         {
                             "lessonIndex": 410,
-                            "title": "Telling person you will call them back",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=479"
+                            "title": "Star Topology"
                         },
                         {
                             "lessonIndex": 411,
-                            "title": "Redirecting",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=480"
+                            "title": "Star Topology"
                         },
                         {
                             "lessonIndex": 412,
-                            "title": "Leaving Messages",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=481"
+                            "title": "Star Topology"
                         },
                         {
                             "lessonIndex": 413,
-                            "title": "Sending and receiving information",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=482"
+                            "title": "Star Topology"
                         },
                         {
                             "lessonIndex": 414,
-                            "title": "Phone Call - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=483"
-                        }
-                    ]
-                },
-                {
-                    "title": "Talking to Coworkers",
-                    "description": "Talking to Co-Workers section contains Business English lessons on Asking for or offering Help, Complaining about another co-worker, Complaining about the company, and Talking about Work Experience.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/coworkers.aspx",
-                    "lessons": [
+                            "title": "Hub-and-Spoke Topology"
+                        },
                         {
                             "lessonIndex": 415,
-                            "title": "Talking to Co-Workers",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=484"
+                            "title": "Hub-and-Spoke Topology"
                         },
                         {
                             "lessonIndex": 416,
-                            "title": "Asking for help or offering help",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=485"
+                            "title": "Hub-and-Spoke Topology"
                         },
                         {
                             "lessonIndex": 417,
-                            "title": "Complaining about another co-worker to a co-worker",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=486"
+                            "title": "Hub-and-Spoke Topology"
                         },
                         {
                             "lessonIndex": 418,
-                            "title": "Complaining about the company",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=487"
+                            "title": "Hub-and-Spoke Topology"
                         },
                         {
                             "lessonIndex": 419,
-                            "title": "Talking about work experience",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=488"
+                            "title": "Full-Mesh Topology"
                         },
                         {
                             "lessonIndex": 420,
-                            "title": "Talking to Coworkers - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=489"
-                        }
-                    ]
-                },
-                {
-                    "title": "Talking to the Boss",
-                    "description": "Talking to your Boss section contains Business English lessons on Asking for More Work, Complaining and showing Frustration, and Talking about Another Manager.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/boss.aspx",
-                    "lessons": [
+                            "title": "Full-Mesh Topology"
+                        },
                         {
                             "lessonIndex": 421,
-                            "title": "Talking to the Boss",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=490"
+                            "title": "Full-Mesh Topology"
                         },
                         {
                             "lessonIndex": 422,
-                            "title": "Asking for more work",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=491"
+                            "title": "Full-Mesh Topology"
                         },
                         {
                             "lessonIndex": 423,
-                            "title": "Complaining and Showing Frustration",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=492"
+                            "title": "Full-Mesh Topology"
                         },
                         {
                             "lessonIndex": 424,
-                            "title": "Talking to your boss about another boss",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=493"
+                            "title": "Partial-Mesh Topology"
                         },
                         {
                             "lessonIndex": 425,
-                            "title": "Talking to Boss - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=494"
-                        }
-                    ]
-                },
-                {
-                    "title": "Talking to Subordinates",
-                    "description": "Talking to your Directs section contains Business English lessons on Project Changes, Deadlines, Directs asking you questions, Encouraging your Directs, and Reprimanding.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/directs.aspx",
-                    "lessons": [
+                            "title": "Partial-Mesh Topology"
+                        },
                         {
                             "lessonIndex": 426,
-                            "title": "Talking to your Subordinate or Direct",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=495"
+                            "title": "Partial-Mesh Topology"
                         },
                         {
                             "lessonIndex": 427,
-                            "title": "Project Change",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=496"
+                            "title": "Partial-Mesh Topology"
                         },
                         {
                             "lessonIndex": 428,
-                            "title": "Deadline",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=497"
+                            "title": "Partial-Mesh Topology"
                         },
                         {
                             "lessonIndex": 429,
-                            "title": "Subordinate asking you Questions",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=498"
+                            "title": "client/server network"
                         },
                         {
                             "lessonIndex": 430,
-                            "title": "Encouraging",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=499"
+                            "title": "peer-to-peer network"
                         },
                         {
                             "lessonIndex": 431,
-                            "title": "Reprimanding",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=500"
+                            "title": "client/server network"
                         },
                         {
                             "lessonIndex": 432,
-                            "title": "Talking to Direct - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=501"
-                        }
-                    ]
-                },
-                {
-                    "title": "Business Trips",
-                    "description": "Business Trip section contains Business English lessons on First time Questions, Talking to People, and Eating during Business Trips.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/biztrip.aspx",
-                    "lessons": [
+                            "title": "client/server network"
+                        },
                         {
                             "lessonIndex": 433,
-                            "title": "Business Trips",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=502"
+                            "title": "client/server network"
                         },
                         {
                             "lessonIndex": 434,
-                            "title": "First time business trip Q's",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=503"
+                            "title": "client/server network"
                         },
                         {
                             "lessonIndex": 435,
-                            "title": "Talking to people",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=504"
+                            "title": "peer-to-peer network"
                         },
                         {
                             "lessonIndex": 436,
-                            "title": "Eating during the Business Trip",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=505"
+                            "title": "peer-to-peer network"
                         },
                         {
                             "lessonIndex": 437,
-                            "title": "Business Trip - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=506"
-                        }
-                    ]
-                },
-                {
-                    "title": "Offices and Cubicles",
-                    "description": "This section contains Business English lessons on Offices and Cubicles.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/cubicles.aspx",
-                    "lessons": [
+                            "title": "peer-to-peer network"
+                        },
                         {
                             "lessonIndex": 438,
-                            "title": "Office and Cubicles",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=507"
-                        },
-                        {
-                            "lessonIndex": 439,
-                            "title": "Cubicles",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=508"
-                        },
-                        {
-                            "lessonIndex": 440,
-                            "title": "Office",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=509"
-                        },
-                        {
-                            "lessonIndex": 441,
-                            "title": "Office and Cubicle - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=510"
+                            "title": "peer-to-peer network"
                         }
                     ]
                 },
                 {
-                    "title": "Review Process",
-                    "description": "Annual Reviews section contains Business English lessons on Performance Reviews, Achievements, Self Improvement, and Compensation.Review and study them as many times as you want.  ",
-                    "link": "http://www.talkenglish.com/speaking/business/reviews.aspx",
-                    "lessons": [
-                        {
-                            "lessonIndex": 442,
-                            "title": "Performance Review Period",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=511"
-                        },
-                        {
-                            "lessonIndex": 443,
-                            "title": "Achievements",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=512"
-                        },
-                        {
-                            "lessonIndex": 444,
-                            "title": "Self Improvement",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=513"
-                        },
-                        {
-                            "lessonIndex": 445,
-                            "title": "Compensation",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=514"
-                        },
-                        {
-                            "lessonIndex": 446,
-                            "title": "Performance Review - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=515"
-                        }
-                    ]
-                },
-                {
-                    "title": "Quitting or Leaving Work",
+                    "title": "Network Security",
                     "description": "The Leaving section contains Business English lessons on Quitting and Leaving Work, Negotiating, and General Statements about Leaving or Quitting Work.Review and study them as many times as you want.  ",
                     "link": "http://www.talkenglish.com/speaking/business/leaving.aspx",
                     "lessons": [
                         {
                             "lessonIndex": 447,
-                            "title": "Quitting or Leaving Work",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=516"
+                            "title": "NIC Exploit"
                         },
                         {
                             "lessonIndex": 448,
-                            "title": "Negotiating before Leaving",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=517"
+                            "title": "Cable Exploits"
                         },
                         {
                             "lessonIndex": 449,
-                            "title": "General Statements",
-                            "link": "http://www.talkenglish.com/lessondetails.aspx?ALID=518"
+                            "title": "Cut the cable and fork it\n"
                         },
                         {
                             "lessonIndex": 450,
-                            "title": "Quitting or Leaving Work - Interactive Practice",
-                            "link": "http://www.talkenglish.com/lessonpractice.aspx?ALID=519"
+                            "title": "Network Vulnerabilities"
+                        },
+                        {
+                            "lessonIndex": 451,
+                            "title": "There are tons of places to attack a network\n"
+                        },
+                        {
+                            "lessonIndex": 452,
+                            "title": "Network PCs share information\n"
+                        },
+                        {
+                            "lessonIndex": 453,
+                            "title": "Why are complex systems hard to protect?"
+                        },
+                        {
+                            "lessonIndex": 454,
+                            "title": "Unknown Perimeter"
+                        },
+                        {
+                            "lessonIndex": 455,
+                            "title": "Network Modification"
+                        },
+                        {
+                            "lessonIndex": 456,
+                            "title": "Substitute Data\n"
+                        },
+                        {
+                            "lessonIndex": 457,
+                            "title": "Insert Data\n"
+                        },
+                        {
+                            "lessonIndex": 458,
+                            "title": "Replay legit data\n"
+                        },
+                        {
+                            "lessonIndex": 459,
+                            "title": "Data corruption\n"
+                        },
+                        {
+                            "lessonIndex": 460,
+                            "title": "Fact about encryption"
+                        },
+                        {
+                            "lessonIndex": 461,
+                            "title": "Only protects whats encrypted\n"
+                        },
+                        {
+                            "lessonIndex": 462,
+                            "title": "Loss of Service"
+                        },
+                        {
+                            "lessonIndex": 463,
+                            "title": "Port scanning"
+                        },
+                        {
+                            "lessonIndex": 464,
+                            "title": "Denial of Service"
+                        },
+                        {
+                            "lessonIndex": 465,
+                            "title": "Too much data sent\n"
+                        },
+                        {
+                            "lessonIndex": 466,
+                            "title": "CPU processing data\n"
+                        },
+                        {
+                            "lessonIndex": 467,
+                            "title": "Cut comms\n"
+                        },
+                        {
+                            "lessonIndex": 468,
+                            "title": "Hrd/ Sft ware bugs\n"
+                        },
+                        {
+                            "lessonIndex": 469,
+                            "title": "Ping of Death"
+                        },
+                        {
+                            "lessonIndex": 470,
+                            "title": "Smurf Attack"
+                        },
+                        {
+                            "lessonIndex": 471,
+                            "title": "Echo-Chargen"
+                        },
+                        {
+                            "lessonIndex": 472,
+                            "title": "Symmetric Encryption"
+                        },
+                        {
+                            "lessonIndex": 473,
+                            "title": "Asymmetric"
+                        },
+                        {
+                            "lessonIndex": 474,
+                            "title": "Encryption Facts"
+                        },
+                        {
+                            "lessonIndex": 475,
+                            "title": "Never modify encrypted scheme\n"
+                        },
+                        {
+                            "lessonIndex": 476,
+                            "title": "Never lose key\n"
+                        },
+                        {
+                            "lessonIndex": 477,
+                            "title": "Only prevent certain attacks\n"
+                        },
+                        {
+                            "lessonIndex": 478,
+                            "title": "TSL evolved from?"
+                        },
+                        {
+                            "lessonIndex": 479,
+                            "title": "TSL Steps"
+                        },
+                        {
+                            "lessonIndex": 480,
+                            "title": "Server sends public key\n"
+                        },
+                        {
+                            "lessonIndex": 481,
+                            "title": "Client returns session key encrypted\n"
+                        },
+                        {
+                            "lessonIndex": 482,
+                            "title": "Switch to Symmetric connection\n"
+                        },
+                        {
+                            "lessonIndex": 483,
+                            "title": "Link"
+                        },
+                        {
+                            "lessonIndex": 484,
+                            "title": "Good for trusted networks\n"
+                        },
+                        {
+                            "lessonIndex": 485,
+                            "title": "Site to Site VPN"
+                        },
+                        {
+                            "lessonIndex": 486,
+                            "title": "Road Warrior VPN"
+                        },
+                        {
+                            "lessonIndex": 487,
+                            "title": "IPsec"
+                        },
+                        {
+                            "lessonIndex": 488,
+                            "title": "End to End Example"
+                        },
+                        {
+                            "lessonIndex": 489,
+                            "title": "End to End Definition"
+                        },
+                        {
+                            "lessonIndex": 490,
+                            "title": "Data is encrypted almost always\n"
+                        },
+                        {
+                            "lessonIndex": 491,
+                            "title": "Data is encrypted at intermediate sources\n"
+                        },
+                        {
+                            "lessonIndex": 492,
+                            "title": "Link Encryption Definition"
+                        },
+                        {
+                            "lessonIndex": 493,
+                            "title": "Is unencrypted by intermediate sources and exposed then reencrypted\n"
+                        },
+                        {
+                            "lessonIndex": 494,
+                            "title": "Onion Routing (Tor)"
+                        },
+                        {
+                            "lessonIndex": 495,
+                            "title": "Guard, Relay, and Exit\n"
+                        },
+                        {
+                            "lessonIndex": 496,
+                            "title": "Firewall Definition"
+                        },
+                        {
+                            "lessonIndex": 497,
+                            "title": "Firewall Characteristics"
+                        },
+                        {
+                            "lessonIndex": 498,
+                            "title": "Tamper-proof\n"
+                        },
+                        {
+                            "lessonIndex": 499,
+                            "title": "Small/ simple for analysis\n"
+                        },
+                        {
+                            "lessonIndex": 500,
+                            "title": "Packet Filtering Gateways"
+                        },
+                        {
+                            "lessonIndex": 501,
+                            "title": "Doesn't see data\n"
+                        },
+                        {
+                            "lessonIndex": 502,
+                            "title": "Stateful Inspection"
+                        },
+                        {
+                            "lessonIndex": 503,
+                            "title": "Application Proxy"
+                        },
+                        {
+                            "lessonIndex": 504,
+                            "title": "Circuit Level Gateway"
+                        },
+                        {
+                            "lessonIndex": 505,
+                            "title": "Guard"
+                        },
+                        {
+                            "lessonIndex": 506,
+                            "title": "Firewall Cons"
+                        },
+                        {
+                            "lessonIndex": 507,
+                            "title": "Visible so vulnerable to attack\n"
+                        },
+                        {
+                            "lessonIndex": 508,
+                            "title": "Depends on configuration\n"
+                        },
+                        {
+                            "lessonIndex": 509,
+                            "title": "NAT"
                         }
                     ]
                 }
