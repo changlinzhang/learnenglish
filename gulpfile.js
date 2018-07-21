@@ -16,7 +16,7 @@ var gulp = require('gulp'),
 
 var lessonData = '';
 try {
-    lessonData = JSON.parse(fs.readFileSync('app/data/listLessons.min.json'));
+    lessonData = JSON.parse(fs.readFileSync('app/data/listLessons.json'));
 } catch (e) {
     if (e.code === 'ENOENT') {
         console.log('File listLessons.min.json not found!');
