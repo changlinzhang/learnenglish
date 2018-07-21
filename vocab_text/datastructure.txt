@@ -1,265 +1,134 @@
-Array: access, search, insert, delete -
-Access: O(1)
+Array: access, search, insert, delete	Access: O(1)
 Search: O(n)
 Insert: O(n)
 Delete: O(n)
-
-Array: memory -
-Memory: O(n)
-
-Array: advantage, disadvantage -
-Advantage: quick insert, quick access if index is known
+Array: memory	Memory: O(n)
+Array: advantage, disadvantage	Advantage: quick insert, quick access if index is known
 Disadvantage: slow search, slow delete, fixed size
-
-Doubly Linked List: access, search, insert, delete -
-Access: O(n)
+Doubly Linked List: access, search, insert, delete	Access: O(n)
 Search: O(n)
 Insert: O(1)
 Delete: O(1)
-
-Doubly Linked List: memory -
-Memory: O(3n) (LL: O 2n)
-
-Doubly Linked List: advantage, disadvantage -
-Advantage: quick insert, quick delete
+Doubly Linked List: memory	Memory: O(3n) (LL: O 2n)
+Doubly Linked List: advantage, disadvantage	Advantage: quick insert, quick delete
 Disadvantage: slow search
-
-Binary Tree: advantage, disadvantage -
-Advantage: quick search, delete, insert
+Binary Tree: advantage, disadvantage	Advantage: quick search, delete, insert
 Disadvantage: complex deletion
-
-# of elements in a binary tree -
-2^(# of rows)
-
-Heap: advantage, disadvantage -
-Advantage: quick insert, quick delete, access to largest item
+# of elements in a binary tree	2^(# of rows)
+Heap: advantage, disadvantage	Advantage: quick insert, quick delete, access to largest item
 Disadvantage: slow access to all other items
-
-Heap Binary Tree: access, search, insert, delete, -
-Access: O(1)
+Heap Binary Tree: access, search, insert, delete,	Access: O(1)
 Search: O(n)
 Insert: O (lg n)
  Best case: sorted array
 Delete: O (lg n)
-
-Heap Binary Tree: max-heapify, build-max-heap, heap-sort -
-Max-heapify: O(n)
+Heap Binary Tree: max-heapify, build-max-heap, heap-sort	Max-heapify: O(n)
 Build-max-heap: O(n)
 Heap-sort: O(n lgn)
-
-Heap Binary Tree: memory -
-Memory: O(n)
-
-Heap Binary Tree: definition -
-A binary tree with two additional constraints:
+Heap Binary Tree: memory	Memory: O(n)
+Heap Binary Tree: definition	A binary tree with two additional constraints:
 Shape - complete tree
 Heap property - max/min heap
-
-Heap Binary Tree: advantage, disadvantage -
-Advantage: fast access, quick insert and delete
+Heap Binary Tree: advantage, disadvantage	Advantage: fast access, quick insert and delete
 Disadvantage: slow search, efficient memory if full
-
-Heap-sort: definition -
-Array size doesn't change, but heap size does
+Heap-sort: definition	Array size doesn't change, but heap size does
 Take off bottom, reshuffle, repeat
 Less efficient than max-heapify because it sorts from the top instead of the bottom
-
-Binary Search Tree: search, insert, delete -
-Search: O(h) / balanced, O(lg n)
+Binary Search Tree: search, insert, delete	Search: O(h) / balanced, O(lg n)
 Insert: O(h) / balanced, O(lg n)
 Delete: O(h) / balanced, O(lg n)
-
-Binary Search Tree: max, min, successor, predecessor -
-Max: O(h)
+Binary Search Tree: max, min, successor, predecessor	Max: O(h)
 Min: O(h)
 Successor: O(h)
 Predecessor: O(h)
-
-Binary Search Tree: property -
-value[left[x]] <= value[x]
+Binary Search Tree: property	value[left[x]] <= value[x]
 value[right[x] >= value[x]
-
-Binary Search Tree: memory -
-Memory: O(n)
-
-Binary Search Tree: advantage, disadvantage -
-Advantage: quick search, quick insert and delete
+Binary Search Tree: memory	Memory: O(n)
+Binary Search Tree: advantage, disadvantage	Advantage: quick search, quick insert and delete
 Disadvantage: slower than hash table
-
-Height of binary tree -
-number of edges on the longest downward path between the root and a leaf
+Height of binary tree	number of edges on the longest downward path between the root and a leaf
 
 log(n) - complete binary tree
-
-Node height -
-number of edges on the longest downward path between node and a leaf
-
-Node depth -
-number of edges on the longest downward path between node and the root
-
-Tries: advantage, disadvantage, memory -
-Advantage: faster search than a hash table, no collisions, no hash function needed, quick insert and delete
+Node height	number of edges on the longest downward path between node and a leaf
+Node depth	number of edges on the longest downward path between node and the root
+Tries: advantage, disadvantage, memory	Advantage: faster search than a hash table, no collisions, no hash function needed, quick insert and delete
 Disadvantage: can take up more space than a hash table
 Memory: A LOT - need empty memory for every possibility
-
-Tries: definition -
-Key-value storage; a kind of tree
+Tries: definition	Key-value storage; a kind of tree
 Key -not- stored in node, value stored in node
 
 Node variables : Boolean isNode, String value, array Edges
-
-Heap Priority Queue: insert, max, extract max, increase value -
-Heap-insert: O(lg n)
+Heap Priority Queue: insert, max, extract max, increase value	Heap-insert: O(lg n)
 Heap-maximum: O(1)
 Heap-extract-max: O(lg n)
 Heap-increase-value: O(lg n)
-
-Priority Queue: advantage, disadvantage -
-Advantage: cheap way to sort priorities, sometimes you want to do things first
+Priority Queue: advantage, disadvantage	Advantage: cheap way to sort priorities, sometimes you want to do things first
 Disadvantage: worse at inserting and searching than BST
-
-BST Priority Queue: insert, max, extract max, increase valye -
-BST-insert: O(h)
+BST Priority Queue: insert, max, extract max, increase valye	BST-insert: O(h)
 BST-maximum: O(h)
 BST-extract-max: O(h)
 BST-increase-value: O(h)
-
-Red Black Tree: search, insert, delete -
-Search: O(lg n)
+Red Black Tree: search, insert, delete	Search: O(lg n)
 Insert: O(lg n)
 Delete: O(lg n)
-
-Red Black Tree: max, min, successor, predecessory -
-Max: O(lg n)
+Red Black Tree: max, min, successor, predecessory	Max: O(lg n)
 Min: O(lg n)
 Successor: O(lg n)
 Predecessor: O(lg n)
-
-Red Black Tree: memory -
-Memory: O(n)
-
-Red Black Tree: height -
-Height: O(lg n)
-
-Red Black Tree: properties -
-1. Every node is either red or black
+Red Black Tree: memory	Memory: O(n)
+Red Black Tree: height	Height: O(lg n)
+Red Black Tree: properties	1. Every node is either red or black
 2. The root is black
 3. Every leaf (NIL) is black
 4. If a node is red, then both its children are black
 5. All simple paths from node to child leaves contain the same # of black nodes
-
-Red Black Tree: advantage, disadvantage -
-Advantage: quick insert, delete, and search
+Red Black Tree: advantage, disadvantage	Advantage: quick insert, delete, and search
 Disadvantage: complex implementation
-
-Black height -
-# of black nodes, including nil, on the path from given node to a leaf, not inclusive; any node with height h has black-height >= h/2
-
-Dictionary: definition -
-A data structure that maps keys to values.
-
-Direct-access table: definition -
-An element key k is stored in slot k.
-
-Direct-access table: memory -
-Memory: O(n)
-
-Direct-access table: search -
-Search: O(1)
-
-Direct-access table: advantage, disadvantage -
-Advantage: quick search, quick insert and delete
+Black height	# of black nodes, including nil, on the path from given node to a leaf, not inclusive; any node with height h has black-height >= h/2
+Dictionary: definition	A data structure that maps keys to values.
+Direct-access table: definition	An element key k is stored in slot k.
+Direct-access table: memory	Memory: O(n)
+Direct-access table: search	Search: O(1)
+Direct-access table: advantage, disadvantage	Advantage: quick search, quick insert and delete
 Disadvantage: lots of wasted memory, keys must be unique, keys should be dense
-
-Hash tables: memory -
-An implementation of a dictionary.
+Hash tables: memory	An implementation of a dictionary.
 Memory: O(n)
-
-Hash tables: search, insert, delete -
-Search: O(1-n)
+Hash tables: search, insert, delete	Search: O(1-n)
 Insert: O(1-n)
 Delete: O(1-n)
-
-Hash collision -
-two (or more) keys hash to same slot
-
-Chaining -
-make each slot is the head of a linked list
-
-ArrayLists: insert -
-Insert: often O(1), sometimes more
-
-ArrayLists: advantages, disadvantages -
-Advantage: advantages of an array, plus does not run out of space
+Hash collision	two (or more) keys hash to same slot
+Chaining	make each slot is the head of a linked list
+ArrayLists: insert	Insert: often O(1), sometimes more
+ArrayLists: advantages, disadvantages	Advantage: advantages of an array, plus does not run out of space
 Disadvantage: inserting can be slower than an array
-
-Stack: definition -
-Last in, first out.
-
-Stack: advantage, disadvantage -
-Advantage: quick access
+Stack: definition	Last in, first out.
+Stack: advantage, disadvantage	Advantage: quick access
 Disadvantage: inefficient with an array
-
-Graph: definition -
-Finite set of vertices connected by edges, directed or not.
-
-Graph: advantage, disadvantage -
-Advantage: best models real-world situations
+Graph: definition	Finite set of vertices connected by edges, directed or not.
+Graph: advantage, disadvantage	Advantage: best models real-world situations
 Disadvantage: can be slow and complex
-
-Adjacency list: memory -
-Memory: O(|V|+|E|)
-
-Adjacency list: add vertex/edge, delete vertex/edge -
-Add vertex: O(1)
+Adjacency list: memory	Memory: O(|V|+|E|)
+Adjacency list: add vertex/edge, delete vertex/edge	Add vertex: O(1)
 Add edge: O(1)
 Delete vertex: O(|E|)
 Delete edge: O(|E|)
-
-Adjacency list: query for adjacency -
-Query for adjacency: O(|V|)
-
-Adjacency matrix: memory -
-Memory: O(|V|^2)
-
-Adjacency matrix: add vertex/edge, delete vertex/edge -
-Add vertex: O(|V|^2)
+Adjacency list: query for adjacency	Query for adjacency: O(|V|)
+Adjacency matrix: memory	Memory: O(|V|^2)
+Adjacency matrix: add vertex/edge, delete vertex/edge	Add vertex: O(|V|^2)
 Add edge: O(1)
 Delete vertex: O(|V|^2)
 Delete edge: O(1)
-
-Adjacency matrix: query for adjacency -
-Query for adjacency: O(1)
-
-Breadth-first search -
-Visits the neighbor vertices before visiting the child vertices
+Adjacency matrix: query for adjacency	Query for adjacency: O(1)
+Breadth-first search	Visits the neighbor vertices before visiting the child vertices
 Often used to find the shortest path from one vertex to another.
 A queue is usually implemented
-
-Depth-first search -
-Visits the child vertices before visiting the sibling vertices
+Depth-first search	Visits the child vertices before visiting the sibling vertices
 A stack is usually implemented
-
-Java stream: definition -
-a sequence of data
-
-Exception handling -
-When there's an error, the program makes an error object and passes it off to the runtime system, which looks for a method in the call stack to handle it.
-
-O(1) -
-O(1) = happens once
-
-O(lg n) -
-happens for up to the height of a balanced tree
-
-O(n) -
-happens for each element
-
-Θ-notation -
-asymptotically tight bound
-
-O-notation -
-asymptotic upper bound
-
-Ω-notation -
-asymptotic lower bound
+Java stream: definition	a sequence of data
+Exception handling	When there's an error, the program makes an error object and passes it off to the runtime system, which looks for a method in the call stack to handle it.
+O(1)	O(1) = happens once
+O(lg n)	happens for up to the height of a balanced tree
+O(n)	happens for each element
+Θ-notation	asymptotically tight bound
+O-notation	asymptotic upper bound
+Ω-notation	asymptotic lower bound
