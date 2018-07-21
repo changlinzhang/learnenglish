@@ -1,13 +1,7 @@
-# f=open("/Users/genius/Documents/computer fields/computer network/Fundamentals.txt")
-# s=f.read()
-# lines=s.split('\n')
-
-# f.close
-
 import json
 
-text = open('/Users/genius/Documents/computer fields/computer network/Fundamentals.txt')
-lessonIndex = 371
+text = open('/Users/genius/Documents/computer fields/computer network/Security.txt')
+lessonIndex = 447
 categoryIndex = 2
 sectionIndex = 0
 for line in text:
