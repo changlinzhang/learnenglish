@@ -189,7 +189,7 @@ var lessonsDataJson;
                 out_duration: modalAnimation_duration
             });
         }
-        $.getJSON(location.href + 'data/lessons/' + lessonIndex + '.json', function(lesson) {
+        $.getJSON('/data/lessons/' + lessonIndex + '.json', function(lesson) {
             currentLessonIndex = lessonIndex;
             localStorage.setItem('lessonIndex', lessonIndex);
             $('#lessonTitle').text(lesson.title);
