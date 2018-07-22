@@ -134,6 +134,16 @@ var lessonsDataJson;
         loadLesson(lessonIndex, true);
     });
 
+    $(document).on('click', '.test-button', function() {
+        var testLink = $(this).data('testlink');
+        console.log(testLink)
+        $('#modalTest').openModal({
+            in_duration: modalAnimation_duration,
+            out_duration: modalAnimation_duration
+        });
+        $('.test-embed').attr("src", testLink);  
+    })
+
     $('#btnPreviousLesson').on('click touchstart', function() {
         loadLesson(--currentLessonIndex);
     });
@@ -252,7 +262,7 @@ var lessonsDataJson;
     if (window.SpeechRecognition === null) {
         console.info("This browser doesn't support Web speech API");
         // hide voice-to-text feature
-        $('.listen-voice').hide();
+        //$('.listen-voice').hide();
     } else {
         window.recognizer = new window.SpeechRecognition();
         window.recognizer.continuous = false;

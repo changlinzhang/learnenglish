@@ -174,9 +174,14 @@ h3 {
     padding: 20px 0;
     height: 70px;
 }
+#modalTest {
+    height: 650px;
+    max-height: 650px; 
+}
 
 @media #{$small-and-down} {
     #modalLesson,
+    #modalTest,
     #modalAbout {
         top: 0 !important;
         height: 100%;

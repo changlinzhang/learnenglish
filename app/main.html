@@ -85,6 +85,7 @@
         <div class="row" style="display: none">
             <div class="col s12">
                 <h1></h1>
+                <a href="#modalTest" class="modal-trigger">Test</a>
                 <div id="sectionDesc"></div>
             </div>
         </div>
@@ -171,6 +172,14 @@
             <a class=" modal-action modal-close waves-effect waves-blue btn-flat">Close</a>
         </div>
     </div>
+    <div id="modalTest" class="modal modal-fixed-footer">
+        <div class="modal-content">
+            <iframe class="test-embed" height="500" width="100%" style="border:0"></iframe>
+        </div>
+        <div class="modal-footer">
+            <a class=" modal-action modal-close waves-effect waves-blue btn-flat">Close</a>
+        </div>
+    </div>
     <!-- templates -->
     <!-- template for sidebar -->
     <script id="sideBarTpl" type="text/x-handlebars-template">
@@ -196,6 +205,7 @@
         <div class="row">
             <div class="col s12">
                 <h1>{{title}}</h1>
+                <a href="#modalTest" class="modal-trigger test-button" data-testlink="{{link}}">Test</a>
                 <div id="sectionDesc">{{description}}</div>
             </div>
         </div>
